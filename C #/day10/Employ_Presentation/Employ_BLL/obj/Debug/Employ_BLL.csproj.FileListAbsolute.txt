@@ -1,0 +1,13 @@
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\Employ_BLL.dll
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\Employ_BLL.pdb
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\EmpEntity.dll
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\Emp_DAL.dll
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\Emp_Exceptions.dll
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\EmpEntity.pdb
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\Emp_DAL.pdb
+C:\C #\day10\Employ_Presentation\Employ_BLL\bin\Debug\Emp_Exceptions.pdb
+C:\C #\day10\Employ_Presentation\Employ_BLL\obj\Debug\Employ_BLL.csprojAssemblyReference.cache
+C:\C #\day10\Employ_Presentation\Employ_BLL\obj\Debug\Employ_BLL.csproj.CoreCompileInputs.cache
+C:\C #\day10\Employ_Presentation\Employ_BLL\obj\Debug\Employ_BLL.csproj.CopyComplete
+C:\C #\day10\Employ_Presentation\Employ_BLL\obj\Debug\Employ_BLL.dll
+C:\C #\day10\Employ_Presentation\Employ_BLL\obj\Debug\Employ_BLL.pdb

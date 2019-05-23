@@ -1,0 +1,10 @@
+C:\C #\labbook\lab3\lab 33\bin\Debug\lab 33.exe.config
+C:\C #\labbook\lab3\lab 33\bin\Debug\lab 33.exe
+C:\C #\labbook\lab3\lab 33\bin\Debug\lab 33.pdb
+C:\C #\labbook\lab3\lab 33\bin\Debug\UniversityModule.dll
+C:\C #\labbook\lab3\lab 33\bin\Debug\UniversityModule.pdb
+C:\C #\labbook\lab3\lab 33\obj\Debug\lab 33.csprojAssemblyReference.cache
+C:\C #\labbook\lab3\lab 33\obj\Debug\lab 33.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab3\lab 33\obj\Debug\lab 33.csproj.CopyComplete
+C:\C #\labbook\lab3\lab 33\obj\Debug\lab 33.exe
+C:\C #\labbook\lab3\lab 33\obj\Debug\lab 33.pdb

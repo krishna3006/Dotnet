@@ -1,0 +1,2 @@
+C:\C #\day9\EventDemo\obj\Debug\EventDemo.csprojAssemblyReference.cache
+C:\C #\day9\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache

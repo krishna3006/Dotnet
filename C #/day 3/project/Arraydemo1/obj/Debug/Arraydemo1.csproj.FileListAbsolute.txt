@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\bin\Debug\Arraydemo1.exe.config
+C:\C #\day 3\project\Arraydemo1\bin\Debug\Arraydemo1.exe
+C:\C #\day 3\project\Arraydemo1\bin\Debug\Arraydemo1.pdb
+C:\C #\day 3\project\Arraydemo1\obj\Debug\Arraydemo1.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\obj\Debug\Arraydemo1.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\obj\Debug\Arraydemo1.exe
+C:\C #\day 3\project\Arraydemo1\obj\Debug\Arraydemo1.pdb

@@ -1,0 +1,10 @@
+C:\C #\day2\project\clsCalc\Clientprog\bin\Debug\Clientprog.exe.config
+C:\C #\day2\project\clsCalc\Clientprog\bin\Debug\Clientprog.exe
+C:\C #\day2\project\clsCalc\Clientprog\bin\Debug\Clientprog.pdb
+C:\C #\day2\project\clsCalc\Clientprog\bin\Debug\clsCalc.dll
+C:\C #\day2\project\clsCalc\Clientprog\bin\Debug\clsCalc.pdb
+C:\C #\day2\project\clsCalc\Clientprog\obj\Debug\Clientprog.csprojAssemblyReference.cache
+C:\C #\day2\project\clsCalc\Clientprog\obj\Debug\Clientprog.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\clsCalc\Clientprog\obj\Debug\Clientprog.csproj.CopyComplete
+C:\C #\day2\project\clsCalc\Clientprog\obj\Debug\Clientprog.exe
+C:\C #\day2\project\clsCalc\Clientprog\obj\Debug\Clientprog.pdb

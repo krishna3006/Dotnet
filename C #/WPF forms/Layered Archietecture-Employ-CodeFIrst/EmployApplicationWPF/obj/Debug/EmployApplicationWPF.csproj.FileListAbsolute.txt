@@ -1,0 +1,51 @@
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EmployApplicationWPF.exe.config
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EmployApplicationWPF.exe
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EmployApplicationWPF.pdb
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.BusinessLayer.dll
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.dll
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.Entities.dll
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EntityFramework.dll
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.BusinessLayer.pdb
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.pdb
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.dll.config
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\Capgemini.EmployDetails.Exceptions.pdb
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EntityFramework.xml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.csprojAssemblyReference.cache
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\App.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF_MarkupCompile.cache
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF_MarkupCompile.lref
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.g.resources
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.Properties.Resources.resources
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.csproj.GenerateResource.cache
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.csproj.CoreCompileInputs.cache
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.csproj.CopyComplete
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.exe
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.pdb
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployGrid.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployGrid.baml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployInsert.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployInsert.baml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployDelete.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployUpdate.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployDelete.baml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployUpdate.baml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\Menu.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\Menu.baml
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployeSearch.g.cs
+C:\C#\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployeSearch.baml
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.csprojAssemblyReference.cache
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployDelete.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployeSearch.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployGrid.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployInsert.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployUpdate.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\Menu.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\App.g.cs
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF_MarkupCompile.cache
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF_MarkupCompile.lref
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.exe
+C:\C #\WPF forms\Layered Archietecture-Employ-CodeFIrst\EmployApplicationWPF\obj\Debug\EmployApplicationWPF.pdb

@@ -1,0 +1,7 @@
+C:\C #\WPF forms\day6\Lamda1\bin\Debug\Lamda1.exe.config
+C:\C #\WPF forms\day6\Lamda1\bin\Debug\Lamda1.exe
+C:\C #\WPF forms\day6\Lamda1\bin\Debug\Lamda1.pdb
+C:\C #\WPF forms\day6\Lamda1\obj\Debug\Lamda1.csprojAssemblyReference.cache
+C:\C #\WPF forms\day6\Lamda1\obj\Debug\Lamda1.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\day6\Lamda1\obj\Debug\Lamda1.exe
+C:\C #\WPF forms\day6\Lamda1\obj\Debug\Lamda1.pdb

@@ -1,0 +1,13 @@
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.csproj.CoreCompileInputs.cache
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\bin\EMS.WcfService.dll.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\bin\EMS.WcfService.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\bin\EMS.WcfService.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\bin\EMS.WcfService.dll.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\bin\EMS.WcfService.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\bin\EMS.WcfService.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.csprojAssemblyReference.cache
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.csproj.CoreCompileInputs.cache
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.WcfService\obj\Debug\EMS.WcfService.pdb

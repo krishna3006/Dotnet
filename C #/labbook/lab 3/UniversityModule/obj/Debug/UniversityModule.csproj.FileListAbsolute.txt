@@ -1,0 +1,6 @@
+C:\C #\labbook\lab3\UniversityModule\bin\Debug\UniversityModule.dll
+C:\C #\labbook\lab3\UniversityModule\bin\Debug\UniversityModule.pdb
+C:\C #\labbook\lab3\UniversityModule\obj\Debug\UniversityModule.csprojAssemblyReference.cache
+C:\C #\labbook\lab3\UniversityModule\obj\Debug\UniversityModule.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab3\UniversityModule\obj\Debug\UniversityModule.dll
+C:\C #\labbook\lab3\UniversityModule\obj\Debug\UniversityModule.pdb

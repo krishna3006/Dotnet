@@ -1,0 +1,7 @@
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\bin\Debug\Dictdemo.exe.config
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\bin\Debug\Dictdemo.exe
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\bin\Debug\Dictdemo.pdb
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\obj\Debug\Dictdemo.csprojAssemblyReference.cache
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\obj\Debug\Dictdemo.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\obj\Debug\Dictdemo.exe
+C:\C #\day6\New folder\Collectionsdemo\Dictdemo\obj\Debug\Dictdemo.pdb

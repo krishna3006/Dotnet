@@ -1,0 +1,6 @@
+C:\C #\labbook\St.JosephLibrary\bin\Debug\St.JosephLibrary.exe.config
+C:\C #\labbook\St.JosephLibrary\bin\Debug\St.JosephLibrary.exe
+C:\C #\labbook\St.JosephLibrary\bin\Debug\St.JosephLibrary.pdb
+C:\C #\labbook\St.JosephLibrary\obj\Debug\St.JosephLibrary.csproj.CoreCompileInputs.cache
+C:\C #\labbook\St.JosephLibrary\obj\Debug\St.JosephLibrary.exe
+C:\C #\labbook\St.JosephLibrary\obj\Debug\St.JosephLibrary.pdb

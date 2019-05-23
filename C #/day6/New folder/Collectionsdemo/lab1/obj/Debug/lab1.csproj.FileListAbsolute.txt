@@ -1,0 +1,2 @@
+C:\C #\day6\New folder\Collectionsdemo\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\C #\day6\New folder\Collectionsdemo\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache

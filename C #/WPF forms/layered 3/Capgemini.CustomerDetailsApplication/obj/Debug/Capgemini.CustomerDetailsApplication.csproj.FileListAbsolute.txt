@@ -1,0 +1,6 @@
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\bin\Debug\Capgemini.CustomerDetailsApplication.exe.config
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\bin\Debug\Capgemini.CustomerDetailsApplication.exe
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\bin\Debug\Capgemini.CustomerDetailsApplication.pdb
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\obj\Debug\Capgemini.CustomerDetailsApplication.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\obj\Debug\Capgemini.CustomerDetailsApplication.exe
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\obj\Debug\Capgemini.CustomerDetailsApplication.pdb

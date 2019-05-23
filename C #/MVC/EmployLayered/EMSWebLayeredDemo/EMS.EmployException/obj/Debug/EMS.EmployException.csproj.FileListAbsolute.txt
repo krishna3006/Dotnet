@@ -1,0 +1,5 @@
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.EmployException\bin\Debug\EMS.EmployException.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.EmployException\bin\Debug\EMS.EmployException.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.EmployException\obj\Debug\EMS.EmployException.csproj.CoreCompileInputs.cache
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.EmployException\obj\Debug\EMS.EmployException.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.EmployException\obj\Debug\EMS.EmployException.pdb

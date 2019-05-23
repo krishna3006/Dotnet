@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Override\bin\Debug\Override.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Override\bin\Debug\Override.exe
+C:\C #\day 5\New folder\Constructordemo1\Override\bin\Debug\Override.pdb
+C:\C #\day 5\New folder\Constructordemo1\Override\obj\Debug\Override.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Override\obj\Debug\Override.exe
+C:\C #\day 5\New folder\Constructordemo1\Override\obj\Debug\Override.pdb

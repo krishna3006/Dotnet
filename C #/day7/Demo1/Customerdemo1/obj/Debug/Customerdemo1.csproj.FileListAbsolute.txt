@@ -1,0 +1,10 @@
+C:\C #\day7\Demo1\Customerdemo1\obj\Debug\Customerdemo1.csprojAssemblyReference.cache
+C:\C #\day7\Demo1\Customerdemo1\obj\Debug\Customerdemo1.csproj.CoreCompileInputs.cache
+C:\C #\day7\Demo1\Customerdemo1\bin\Debug\Customerdemo1.exe.config
+C:\C #\day7\Demo1\Customerdemo1\bin\Debug\Customerdemo1.exe
+C:\C #\day7\Demo1\Customerdemo1\bin\Debug\Customerdemo1.pdb
+C:\C #\day7\Demo1\Customerdemo1\bin\Debug\ClsCustomerdemo.dll
+C:\C #\day7\Demo1\Customerdemo1\bin\Debug\ClsCustomerdemo.pdb
+C:\C #\day7\Demo1\Customerdemo1\obj\Debug\Customerdemo1.csproj.CopyComplete
+C:\C #\day7\Demo1\Customerdemo1\obj\Debug\Customerdemo1.exe
+C:\C #\day7\Demo1\Customerdemo1\obj\Debug\Customerdemo1.pdb

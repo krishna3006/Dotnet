@@ -1,0 +1,7 @@
+C:\C #\labbook\lab4\lAB4\bin\Debug\lAB4.exe.config
+C:\C #\labbook\lab4\lAB4\bin\Debug\lAB4.exe
+C:\C #\labbook\lab4\lAB4\bin\Debug\lAB4.pdb
+C:\C #\labbook\lab4\lAB4\obj\Debug\lAB4.csprojAssemblyReference.cache
+C:\C #\labbook\lab4\lAB4\obj\Debug\lAB4.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab4\lAB4\obj\Debug\lAB4.exe
+C:\C #\labbook\lab4\lAB4\obj\Debug\lAB4.pdb

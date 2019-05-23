@@ -1,0 +1,12 @@
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\Lamdadb.exe.config
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\Lamdadb.exe
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\Lamdadb.pdb
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\EntityFramework.dll
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\EntityFramework.SqlServer.dll
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\EntityFramework.xml
+C:\C #\WPF forms\day6\Lamdadb\bin\Debug\EntityFramework.SqlServer.xml
+C:\C #\WPF forms\day6\Lamdadb\obj\Debug\Lamdadb.csprojAssemblyReference.cache
+C:\C #\WPF forms\day6\Lamdadb\obj\Debug\Lamdadb.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\day6\Lamdadb\obj\Debug\Lamdadb.csproj.CopyComplete
+C:\C #\WPF forms\day6\Lamdadb\obj\Debug\Lamdadb.exe
+C:\C #\WPF forms\day6\Lamdadb\obj\Debug\Lamdadb.pdb

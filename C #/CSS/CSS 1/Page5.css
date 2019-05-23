@@ -1,0 +1,15 @@
+﻿a:link,a:visited
+{
+	display:block;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#98bf21;
+	width:120px;
+	text-lign:Center;
+	padding:4px;
+	text-decoration:none;
+}
+a:hover,a:active
+{
+	background-color: #7A991A
+}

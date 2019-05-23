@@ -1,0 +1,10 @@
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\bin\Debug\IGatePatni.AdoDotNet.Labs.exe.config
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\bin\Debug\IGatePatni.AdoDotNet.Labs.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\bin\Debug\IGatePatni.AdoDotNet.Labs.pdb
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.DataSetAdapterDemo.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.Properties.Resources.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.csproj.GenerateResource.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-2\IGatePatni.AdoDotNet.Labs\obj\Debug\IGatePatni.AdoDotNet.Labs.pdb

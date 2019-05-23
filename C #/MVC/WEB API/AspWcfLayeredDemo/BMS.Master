@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BMS.master.cs" Inherits="AspWcfLayeredDemo.BMS" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    
+    <style type="text/css">
+        .auto-style1 {
+            width: 59%;
+        }
+        .auto-style5 {
+            width: 83px;
+        }
+        .auto-style6 {
+            width: 79%;
+        }
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+            <table align="center" class="auto-style1">
+                <tr>
+                    <td colspan="2">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="lblLayered" runat="server" Font-Bold="True" Font-Names="Tahoma" ForeColor="Black" Text="Asp.Net and WCF Layered Demo"></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="lblBMS" runat="server" Font-Bold="True" ForeColor="#9900CC" Text="Book Management System"></asp:Label>
+                        &nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <asp:LinkButton ID="lnkAddBook" runat="server">Add Book</asp:LinkButton>
+                    </td>
+                    <td class="auto-style6" rowspan="4">&nbsp;&nbsp; &nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <asp:LinkButton ID="lnkUpdateBook" runat="server">Update Book</asp:LinkButton>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <asp:LinkButton ID="lnkDeleteBook" runat="server">Delete Book</asp:LinkButton>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <asp:LinkButton ID="lnkSearchBook" runat="server">Search Book</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkViewBook" runat="server">View Book</asp:LinkButton>
+                    </td>
+                </tr>
+            </table>
+            
+        </div>
+    </form>
+</body>
+</html>

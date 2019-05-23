@@ -1,0 +1,10 @@
+C:\C #\winforms\WindowsFormsApp1\Color\bin\Debug\Color.exe.config
+C:\C #\winforms\WindowsFormsApp1\Color\bin\Debug\Color.exe
+C:\C #\winforms\WindowsFormsApp1\Color\bin\Debug\Color.pdb
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.csprojAssemblyReference.cache
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.Form1.resources
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.Properties.Resources.resources
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.csproj.GenerateResource.cache
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.exe
+C:\C #\winforms\WindowsFormsApp1\Color\obj\Debug\Color.pdb

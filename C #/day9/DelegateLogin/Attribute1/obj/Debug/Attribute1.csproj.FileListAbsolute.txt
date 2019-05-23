@@ -1,0 +1,2 @@
+C:\C #\day9\DelegateLogin\Attribute1\obj\Debug\Attribute1.csprojAssemblyReference.cache
+C:\C #\day9\DelegateLogin\Attribute1\obj\Debug\Attribute1.csproj.CoreCompileInputs.cache

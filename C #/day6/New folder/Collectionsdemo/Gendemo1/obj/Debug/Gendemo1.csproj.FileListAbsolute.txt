@@ -1,0 +1,7 @@
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\bin\Debug\Gendemo1.exe.config
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\bin\Debug\Gendemo1.exe
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\bin\Debug\Gendemo1.pdb
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\obj\Debug\Gendemo1.csprojAssemblyReference.cache
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\obj\Debug\Gendemo1.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\obj\Debug\Gendemo1.exe
+C:\C #\day6\New folder\Collectionsdemo\Gendemo1\obj\Debug\Gendemo1.pdb

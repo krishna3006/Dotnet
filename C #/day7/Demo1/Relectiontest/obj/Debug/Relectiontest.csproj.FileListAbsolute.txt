@@ -1,0 +1,7 @@
+C:\C #\day7\Demo1\Relectiontest\bin\Debug\Relectiontest.exe.config
+C:\C #\day7\Demo1\Relectiontest\bin\Debug\Relectiontest.exe
+C:\C #\day7\Demo1\Relectiontest\bin\Debug\Relectiontest.pdb
+C:\C #\day7\Demo1\Relectiontest\obj\Debug\Relectiontest.csprojAssemblyReference.cache
+C:\C #\day7\Demo1\Relectiontest\obj\Debug\Relectiontest.csproj.CoreCompileInputs.cache
+C:\C #\day7\Demo1\Relectiontest\obj\Debug\Relectiontest.exe
+C:\C #\day7\Demo1\Relectiontest\obj\Debug\Relectiontest.pdb

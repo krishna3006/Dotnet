@@ -1,0 +1,6 @@
+C:\C #\labbook\Arithmetic Library\bin\Debug\Arithmetic Library.dll
+C:\C #\labbook\Arithmetic Library\bin\Debug\Arithmetic Library.pdb
+C:\C #\labbook\Arithmetic Library\obj\Debug\Arithmetic Library.csprojAssemblyReference.cache
+C:\C #\labbook\Arithmetic Library\obj\Debug\Arithmetic Library.csproj.CoreCompileInputs.cache
+C:\C #\labbook\Arithmetic Library\obj\Debug\Arithmetic Library.dll
+C:\C #\labbook\Arithmetic Library\obj\Debug\Arithmetic Library.pdb

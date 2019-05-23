@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BookManagementSystem.master.cs" Inherits="BMSWebApp.BookManagementSystem" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    
+    <style type="text/css">
+        .auto-style1 {
+            width: 77%;
+            height: 460px;
+            border-style: solid;
+            border-width: 5px;
+        }
+        .auto-style2 {
+            width: 81px;
+        }
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+           
+            <table align="left" cellpadding="5" cellspacing="6" class="auto-style1">
+                <tr>
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="Label1" runat="server" BackColor="White" BorderColor="#CCFFFF" Font-Bold="True" Font-Overline="False" Font-Size="Medium" Font-Underline="True" ForeColor="#333300" Text="ASP.NET and WCF Layered Demo"></asp:Label>
+                        &nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Italic="False" Font-Names="Rockwell" ForeColor="#FF6699" Text="Book Management System"></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        <asp:LinkButton ID="lnkAdd" runat="server" OnClick="lnkAdd_Click">Add Book</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkUpdate" runat="server" OnClick="lnkUpdate_Click">Update Book</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkDel" runat="server" OnClick="lnkDel_Click1" >Delete Book</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkSearch" runat="server" OnClick="lnkSearch_Click"  >Search Book</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkView" runat="server" OnClick="lnkView_Click">View Book</asp:LinkButton>
+                    </td>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="Label3" runat="server" BackColor="#CCFFFF" Font-Bold="True" ForeColor="Red">Copy Right to Capgemini</asp:Label>
+                    </td>
+                </tr>
+            </table>
+           
+        </div>
+    </form>
+</body>
+</html>

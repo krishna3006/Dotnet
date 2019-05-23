@@ -1,0 +1,56 @@
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.BusinessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Entities.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Exceptions.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.BusinessLayer.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Entities.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Exceptions.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\Login.g.cs
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\PatientDetails.g.cs
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\Login.baml
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\PatientDetails.baml
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.dll
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.BusinessLayer.dll
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Entities.dll
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Exceptions.dll
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.pdb
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.BusinessLayer.pdb
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Entities.pdb
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\bin\Debug\Capgemini.HospitalDetails.Exceptions.pdb
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\Login.g.cs
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\PatientDetails.g.cs
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\Login.baml
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\PatientDetails.baml
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\C #\module 2 labbok\labbook\WPF-LAB\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb

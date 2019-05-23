@@ -1,0 +1,11 @@
+C:\C #\winforms 3\AdoStoredProcedures\bin\Debug\AdoStoredProcedures.exe.config
+C:\C #\winforms 3\AdoStoredProcedures\bin\Debug\AdoStoredProcedures.exe
+C:\C #\winforms 3\AdoStoredProcedures\bin\Debug\AdoStoredProcedures.pdb
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.csprojAssemblyReference.cache
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.Form1.resources
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.Properties.Resources.resources
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.csproj.GenerateResource.cache
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.csproj.CoreCompileInputs.cache
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.exe
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.pdb
+C:\C #\winforms 3\AdoStoredProcedures\obj\Debug\AdoStoredProcedures.Form2.resources

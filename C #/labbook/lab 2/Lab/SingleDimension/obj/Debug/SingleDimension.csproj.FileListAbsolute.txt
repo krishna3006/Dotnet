@@ -1,0 +1,6 @@
+C:\C #\labbook\lab2\Lab\SingleDimension\bin\Debug\SingleDimension.exe.config
+C:\C #\labbook\lab2\Lab\SingleDimension\bin\Debug\SingleDimension.exe
+C:\C #\labbook\lab2\Lab\SingleDimension\bin\Debug\SingleDimension.pdb
+C:\C #\labbook\lab2\Lab\SingleDimension\obj\Debug\SingleDimension.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab2\Lab\SingleDimension\obj\Debug\SingleDimension.exe
+C:\C #\labbook\lab2\Lab\SingleDimension\obj\Debug\SingleDimension.pdb

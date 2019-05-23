@@ -1,0 +1,5 @@
+C:\C #\MVC\layered architecture\BMS.BookException\bin\Debug\BMS.BookException.dll
+C:\C #\MVC\layered architecture\BMS.BookException\bin\Debug\BMS.BookException.pdb
+C:\C #\MVC\layered architecture\BMS.BookException\obj\Debug\BMS.BookException.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered architecture\BMS.BookException\obj\Debug\BMS.BookException.dll
+C:\C #\MVC\layered architecture\BMS.BookException\obj\Debug\BMS.BookException.pdb

@@ -1,0 +1,7 @@
+C:\C #\labbook\lab2\BooksDemo\bin\Debug\BooksDemo.exe.config
+C:\C #\labbook\lab2\BooksDemo\bin\Debug\BooksDemo.exe
+C:\C #\labbook\lab2\BooksDemo\bin\Debug\BooksDemo.pdb
+C:\C #\labbook\lab2\BooksDemo\obj\Debug\BooksDemo.csprojAssemblyReference.cache
+C:\C #\labbook\lab2\BooksDemo\obj\Debug\BooksDemo.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab2\BooksDemo\obj\Debug\BooksDemo.exe
+C:\C #\labbook\lab2\BooksDemo\obj\Debug\BooksDemo.pdb

@@ -1,0 +1,2 @@
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\Capgemini.CustomerDetails.Exceptions\obj\Debug\Capgemini.CustomerDetails.Exceptions.csprojAssemblyReference.cache
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\Capgemini.CustomerDetails.Exceptions\obj\Debug\Capgemini.CustomerDetails.Exceptions.csproj.CoreCompileInputs.cache

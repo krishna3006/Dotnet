@@ -1,0 +1,9 @@
+﻿<Application x:Class="Imagedemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Imagedemo"
+             StartupUri="ImageListdemo.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

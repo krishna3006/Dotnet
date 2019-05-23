@@ -1,0 +1,13 @@
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Capgemini.HospitalDetails.BusinessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Capgemini.HospitalDetails.BusinessLayer.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Capgemini.HospitalDetails.Entities.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Capgemini.HospitalDetails.Exceptions.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Capgemini.HospitalDetails.Entities.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\bin\Debug\Capgemini.HospitalDetails.Exceptions.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\obj\Debug\Capgemini.HospitalDetails.BusinessLayer.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\obj\Debug\Capgemini.HospitalDetails.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\obj\Debug\Capgemini.HospitalDetails.BusinessLayer.csproj.CopyComplete
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\obj\Debug\Capgemini.HospitalDetails.BusinessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\HospitalManagementSystemWPF\Capgemini.HospitalDetails.BusinessLayer\obj\Debug\Capgemini.HospitalDetails.BusinessLayer.pdb

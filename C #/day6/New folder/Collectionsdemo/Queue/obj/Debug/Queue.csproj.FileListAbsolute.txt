@@ -1,0 +1,6 @@
+C:\C #\day6\New folder\Collectionsdemo\Queue\bin\Debug\Queue.exe.config
+C:\C #\day6\New folder\Collectionsdemo\Queue\bin\Debug\Queue.exe
+C:\C #\day6\New folder\Collectionsdemo\Queue\bin\Debug\Queue.pdb
+C:\C #\day6\New folder\Collectionsdemo\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\Queue\obj\Debug\Queue.exe
+C:\C #\day6\New folder\Collectionsdemo\Queue\obj\Debug\Queue.pdb

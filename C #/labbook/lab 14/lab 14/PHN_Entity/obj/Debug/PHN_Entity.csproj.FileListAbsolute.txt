@@ -1,0 +1,6 @@
+C:\Users\Abridge Solutions\source\repos\PHN_Entity\bin\Debug\PHN_Entity.dll
+C:\Users\Abridge Solutions\source\repos\PHN_Entity\bin\Debug\PHN_Entity.pdb
+C:\Users\Abridge Solutions\source\repos\PHN_Entity\obj\Debug\PHN_Entity.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\source\repos\PHN_Entity\obj\Debug\PHN_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\source\repos\PHN_Entity\obj\Debug\PHN_Entity.dll
+C:\Users\Abridge Solutions\source\repos\PHN_Entity\obj\Debug\PHN_Entity.pdb

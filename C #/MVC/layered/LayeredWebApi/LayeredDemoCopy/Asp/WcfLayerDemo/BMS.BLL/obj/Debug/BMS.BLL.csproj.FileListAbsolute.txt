@@ -1,0 +1,41 @@
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csprojAssemblyReference.cache
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CoreCompileInputs.cache
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BLL.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BLL.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BookException.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BookException.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.dll.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CopyComplete
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.Entity.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.Entity.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BLL.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BLL.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BookException.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.Entity.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BookException.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.dll.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.Entity.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csprojAssemblyReference.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CoreCompileInputs.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CopyComplete
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BLL.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BLL.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BookException.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.Entity.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.BookException.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.DAL.dll.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\bin\Debug\BMS.Entity.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CopyComplete
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.BLL\obj\Debug\BMS.BLL.pdb

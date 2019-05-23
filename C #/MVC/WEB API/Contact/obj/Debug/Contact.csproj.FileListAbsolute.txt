@@ -1,0 +1,3 @@
+C:\C #\MVC\WEB API\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\C #\MVC\WEB API\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\C #\MVC\WEB API\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache

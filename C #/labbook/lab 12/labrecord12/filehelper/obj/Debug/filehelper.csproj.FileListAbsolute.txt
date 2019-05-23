@@ -1,0 +1,6 @@
+C:\C #\labbook\LAB 12\labrecord12\filehelper\bin\Debug\filehelper.exe.config
+C:\C #\labbook\LAB 12\labrecord12\filehelper\bin\Debug\filehelper.exe
+C:\C #\labbook\LAB 12\labrecord12\filehelper\bin\Debug\filehelper.pdb
+C:\C #\labbook\LAB 12\labrecord12\filehelper\obj\Debug\filehelper.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 12\labrecord12\filehelper\obj\Debug\filehelper.exe
+C:\C #\labbook\LAB 12\labrecord12\filehelper\obj\Debug\filehelper.pdb

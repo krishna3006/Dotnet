@@ -1,0 +1,1 @@
+C:\C #\day7\Demo1\ClsStudent\obj\Debug\ClsStudent.csproj.CoreCompileInputs.cache

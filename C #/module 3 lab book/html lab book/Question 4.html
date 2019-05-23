@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Candidate Details</title>
+</head>
+<body>
+<center>	
+	<form name="Formelements" action="index2.jsp">
+	<table border="3" bgcolor="skyblue">
+		<tr>
+			<td><label><b>Name:<b> </label></td>
+			<td><input type="text" max="15" name="demo" placeholder="Enter Name (Max 15 Char)" /></td>
+		</tr>
+		<tr>
+			<td><label><b>Password:<b> </label></td>
+			<td><input type="password" name="pass" placeholder="Enter password" /></td>
+		</tr>
+		<tr>
+			<td><label><b>Phone Number:<b> </label></td>
+			<td><input type="tel" id="phone" name="phone"pattern="[0-9]{10}" required placeholder="Enter phone number"></td>
+		</tr>
+		<tr>
+			<td><label><b>Gender:<b> </label></td>
+			<td><input type="radio" name="gen" value="Male">Male<br/>
+			<input type="radio" name="gen" value="Female">Female<br/>
+			</td>
+		</tr>
+		<tr>
+			<td><label><b>Date of birth:<b> </label></td>
+			<td><input type="Date" name="date" max='2019-12-30'required placeholder="Select Date of Birth"></td>
+		</tr>
+		<tr>
+			<td><label><b>Email:<b> </label></td>
+			<td><input type="email" name="email" required placeholder="Enter valid email"></td>
+		</tr>
+		<tr>
+			<td><label><b>Highest Qualification:<b> </label></td>
+			<td><input type="text" list="nameList" placeholder="Highest Qualification"name="qualification"/>
+				<datalist id="nameList">
+				<option value="B.Tech">
+				<option value="M.Tech">
+				<option value="MBA">
+				<option value="MCA">
+				<option value="MSc">
+				<option value="MA">	
+				<option value="BSC">
+				</datalist>
+			</td>
+		</tr>
+		<tr>
+			<td><label><b>Courses Interested In:<b> </label></td>
+			<td><input type="checkbox" name="html">HTML/DHTML<br/>
+			<input type="checkbox" name="java" >JAVA<br/>
+			<input type="checkbox" name="client">Client/Server<br/>
+			<input type="checkbox" name="net" >.NET<br/>
+			</td>
+		</tr>
+		<tr>
+			<td><label><b>Comments:<b> </label></td>
+			<td><textarea name="addr" Rows="5" cols="40" placeholder="Enter Comments regarding Degree / External Certificates"></textarea><br> <br></td>
+		</tr>
+		<tr>
+			<td><label><b>Upload Degree/<br/>External Certificates:<b> </label></td>
+			<td><input type="file" name="fnm"></td>
+		</tr>
+		<td colspan="2"><center>All Fields Marked * are Mandatory</center></td>
+		</center>
+</body>
+</html>

@@ -1,0 +1,2 @@
+C:\C #\day7\SerializeDemo\obj\Debug\SerializeDemo.csprojAssemblyReference.cache
+C:\C #\day7\SerializeDemo\obj\Debug\SerializeDemo.csproj.CoreCompileInputs.cache

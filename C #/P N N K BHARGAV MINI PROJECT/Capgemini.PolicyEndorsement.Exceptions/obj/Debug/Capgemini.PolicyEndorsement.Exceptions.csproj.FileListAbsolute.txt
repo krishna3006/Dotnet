@@ -1,0 +1,11 @@
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Exceptions\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Exceptions\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C #\mini project 1\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.Exceptions\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C #\mini project 1\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.Exceptions\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C #\mini project 1\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.csprojAssemblyReference.cache
+C:\C #\mini project 1\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.csproj.CoreCompileInputs.cache
+C:\C #\mini project 1\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C #\mini project 1\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.Exceptions\obj\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb

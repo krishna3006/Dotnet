@@ -1,0 +1,6 @@
+C:\C #\day 5\New folder\Constructordemo1\Basedemo\bin\Debug\Basedemo.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Basedemo\bin\Debug\Basedemo.exe
+C:\C #\day 5\New folder\Constructordemo1\Basedemo\bin\Debug\Basedemo.pdb
+C:\C #\day 5\New folder\Constructordemo1\Basedemo\obj\Debug\Basedemo.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Basedemo\obj\Debug\Basedemo.exe
+C:\C #\day 5\New folder\Constructordemo1\Basedemo\obj\Debug\Basedemo.pdb

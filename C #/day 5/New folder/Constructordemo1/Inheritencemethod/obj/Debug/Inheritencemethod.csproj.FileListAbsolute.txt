@@ -1,0 +1,2 @@
+C:\C #\day 5\New folder\Constructordemo1\Inheritencemethod\obj\Debug\Inheritencemethod.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Inheritencemethod\obj\Debug\Inheritencemethod.csproj.CoreCompileInputs.cache

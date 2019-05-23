@@ -1,0 +1,2 @@
+C:\C #\day 3\project\Arraydemo1\accessmodifiers\obj\Debug\accessmodifiers.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\accessmodifiers\obj\Debug\accessmodifiers.csproj.CoreCompileInputs.cache

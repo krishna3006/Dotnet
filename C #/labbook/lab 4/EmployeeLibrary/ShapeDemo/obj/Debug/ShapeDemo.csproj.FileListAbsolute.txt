@@ -1,0 +1,6 @@
+C:\C #\labbook\lab4\EmployeeLibrary\ShapeDemo\bin\Debug\ShapeDemo.exe.config
+C:\C #\labbook\lab4\EmployeeLibrary\ShapeDemo\bin\Debug\ShapeDemo.exe
+C:\C #\labbook\lab4\EmployeeLibrary\ShapeDemo\bin\Debug\ShapeDemo.pdb
+C:\C #\labbook\lab4\EmployeeLibrary\ShapeDemo\obj\Debug\ShapeDemo.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab4\EmployeeLibrary\ShapeDemo\obj\Debug\ShapeDemo.exe
+C:\C #\labbook\lab4\EmployeeLibrary\ShapeDemo\obj\Debug\ShapeDemo.pdb

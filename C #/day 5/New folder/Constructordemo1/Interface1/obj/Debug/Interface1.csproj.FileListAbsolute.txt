@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Interface1\bin\Debug\Interface1.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Interface1\bin\Debug\Interface1.exe
+C:\C #\day 5\New folder\Constructordemo1\Interface1\bin\Debug\Interface1.pdb
+C:\C #\day 5\New folder\Constructordemo1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Interface1\obj\Debug\Interface1.exe
+C:\C #\day 5\New folder\Constructordemo1\Interface1\obj\Debug\Interface1.pdb

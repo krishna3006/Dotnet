@@ -1,0 +1,6 @@
+C:\C #\day9\DelegateDemo\TestMulti\bin\Debug\TestMulti.exe.config
+C:\C #\day9\DelegateDemo\TestMulti\bin\Debug\TestMulti.exe
+C:\C #\day9\DelegateDemo\TestMulti\bin\Debug\TestMulti.pdb
+C:\C #\day9\DelegateDemo\TestMulti\obj\Debug\TestMulti.csproj.CoreCompileInputs.cache
+C:\C #\day9\DelegateDemo\TestMulti\obj\Debug\TestMulti.exe
+C:\C #\day9\DelegateDemo\TestMulti\obj\Debug\TestMulti.pdb

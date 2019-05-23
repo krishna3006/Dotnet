@@ -1,0 +1,16 @@
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.BusinessLayer.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.BusinessLayer.pdb
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Entities.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.pdb
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.dll.config
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Exceptions.pdb
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csprojAssemblyReference.cache
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csproj.CopyComplete
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.pdb

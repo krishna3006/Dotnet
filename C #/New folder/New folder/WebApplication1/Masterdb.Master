@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterDB.master.cs" Inherits="WebApplication1.MasterDB" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+   
+    <style type="text/css">
+        .auto-style1 {
+            width: 70%;
+        }
+        .auto-style2 {
+            width: 114px;
+        }
+    </style>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+           
+        </div>
+        <table align="center" class="auto-style1">
+            <tr>
+                <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:Label ID="lblDatabase" runat="server" Font-Names="Tahoma" ForeColor="#993399" Text="welcome to database master page"></asp:Label>
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <table align="center" class="auto-style1">
+                            <tr>
+                                <td class="auto-style2">
+                                    <asp:LinkButton ID="lnkAgent" runat="server" OnClick="lnkAgent_Click">Agent</asp:LinkButton>
+                                </td>
+                                <td>
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="auto-style2">
+                                    <asp:LinkButton ID="lnkPolicy" runat="server" OnClick="lnkPolicy_Click">Policy</asp:LinkButton>
+                                </td>
+                                <td>
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="auto-style2">
+                                    <asp:LinkButton ID="lnkEmp" runat="server" OnClick="lnkEmp_Click">Emp</asp:LinkButton>
+                                </td>
+                                <td>
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </td>
+                            </tr>
+                        </table>
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:Label ID="lblCopyright" runat="server" Text="Copyright to Capgemini"></asp:Label>
+                    &nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

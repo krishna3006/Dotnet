@@ -1,0 +1,6 @@
+C:\C #\day2\project\factorial.cs\Structdemo\obj\Debug\Structdemo.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\Structdemo\bin\Debug\Structdemo.exe.config
+C:\C #\day2\project\factorial.cs\Structdemo\bin\Debug\Structdemo.exe
+C:\C #\day2\project\factorial.cs\Structdemo\bin\Debug\Structdemo.pdb
+C:\C #\day2\project\factorial.cs\Structdemo\obj\Debug\Structdemo.exe
+C:\C #\day2\project\factorial.cs\Structdemo\obj\Debug\Structdemo.pdb

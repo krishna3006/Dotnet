@@ -1,0 +1,2 @@
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\Capgemini.CustomerDetails.DataAccessLayer\obj\Debug\Capgemini.CustomerDetails.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\layered 3\Capgemini.CustomerDetailsApplication\Capgemini.CustomerDetails.DataAccessLayer\obj\Debug\Capgemini.CustomerDetails.DataAccessLayer.csprojAssemblyReference.cache

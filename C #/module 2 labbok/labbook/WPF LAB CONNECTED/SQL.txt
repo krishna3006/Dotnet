@@ -1,0 +1,17 @@
+
+CREATE PROC prcAddPAtient
+@id INT,
+@name VARCHAR(20),
+@type VARCHAR(20)
+AS
+ INSERT INTO PatientDetail VALUES(@id,@name,@type)
+
+
+
+
+CREATE PROC [dbo].[prcGetAllPatient]
+AS
+BEGIN
+SELECT * FROM PatientDetail
+END
+GO

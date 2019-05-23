@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Construtor2\bin\Debug\Construtor2.exe.config
+C:\C #\day 5\New folder\Construtor2\bin\Debug\Construtor2.exe
+C:\C #\day 5\New folder\Construtor2\bin\Debug\Construtor2.pdb
+C:\C #\day 5\New folder\Construtor2\obj\Debug\Construtor2.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Construtor2\obj\Debug\Construtor2.exe
+C:\C #\day 5\New folder\Construtor2\obj\Debug\Construtor2.pdb
+C:\C #\day 5\New folder\Construtor2\obj\Debug\Construtor2.csprojAssemblyReference.cache

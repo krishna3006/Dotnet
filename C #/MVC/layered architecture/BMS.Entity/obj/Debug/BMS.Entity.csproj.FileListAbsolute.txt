@@ -1,0 +1,6 @@
+C:\C #\MVC\layered architecture\BMS.Entity\bin\Debug\BMS.Entity.dll
+C:\C #\MVC\layered architecture\BMS.Entity\bin\Debug\BMS.Entity.pdb
+C:\C #\MVC\layered architecture\BMS.Entity\obj\Debug\BMS.Entity.csprojAssemblyReference.cache
+C:\C #\MVC\layered architecture\BMS.Entity\obj\Debug\BMS.Entity.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered architecture\BMS.Entity\obj\Debug\BMS.Entity.dll
+C:\C #\MVC\layered architecture\BMS.Entity\obj\Debug\BMS.Entity.pdb

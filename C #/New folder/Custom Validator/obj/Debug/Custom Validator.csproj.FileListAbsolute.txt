@@ -1,0 +1,2 @@
+C:\C #\New folder\Custom Validator\obj\Debug\Custom Validator.csprojAssemblyReference.cache
+C:\C #\New folder\Custom Validator\obj\Debug\Custom Validator.csproj.CoreCompileInputs.cache

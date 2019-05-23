@@ -1,0 +1,6 @@
+C:\C #\day2\project\factorial.cs\Outref\obj\Debug\Outref.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\Outref\bin\Debug\Outref.exe.config
+C:\C #\day2\project\factorial.cs\Outref\bin\Debug\Outref.exe
+C:\C #\day2\project\factorial.cs\Outref\bin\Debug\Outref.pdb
+C:\C #\day2\project\factorial.cs\Outref\obj\Debug\Outref.exe
+C:\C #\day2\project\factorial.cs\Outref\obj\Debug\Outref.pdb

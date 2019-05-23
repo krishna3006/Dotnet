@@ -1,0 +1,7 @@
+C:\C #\day7\OptDemo\bin\Debug\OptDemo.exe.config
+C:\C #\day7\OptDemo\bin\Debug\OptDemo.exe
+C:\C #\day7\OptDemo\bin\Debug\OptDemo.pdb
+C:\C #\day7\OptDemo\obj\Debug\OptDemo.csprojAssemblyReference.cache
+C:\C #\day7\OptDemo\obj\Debug\OptDemo.csproj.CoreCompileInputs.cache
+C:\C #\day7\OptDemo\obj\Debug\OptDemo.exe
+C:\C #\day7\OptDemo\obj\Debug\OptDemo.pdb

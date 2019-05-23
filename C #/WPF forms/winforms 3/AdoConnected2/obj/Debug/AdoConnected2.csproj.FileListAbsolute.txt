@@ -1,0 +1,12 @@
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.Agent.resources
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.Properties.Resources.resources
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.csproj.GenerateResource.cache
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.csproj.CoreCompileInputs.cache
+C:\C #\winforms 3\AdoConnected2\bin\Debug\AdoConnected2.exe.config
+C:\C #\winforms 3\AdoConnected2\bin\Debug\AdoConnected2.exe
+C:\C #\winforms 3\AdoConnected2\bin\Debug\AdoConnected2.pdb
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.exe
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.pdb
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.Search.resources
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.csprojAssemblyReference.cache
+C:\C #\winforms 3\AdoConnected2\obj\Debug\AdoConnected2.Insert.resources

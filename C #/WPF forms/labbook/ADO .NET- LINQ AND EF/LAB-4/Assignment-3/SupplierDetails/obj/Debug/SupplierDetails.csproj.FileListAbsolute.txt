@@ -1,0 +1,10 @@
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\bin\Debug\SupplierDetails.exe.config
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\bin\Debug\SupplierDetails.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\bin\Debug\SupplierDetails.pdb
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.Form1.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.Properties.Resources.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.csproj.GenerateResource.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\Assignment-3\SupplierDetails\obj\Debug\SupplierDetails.pdb

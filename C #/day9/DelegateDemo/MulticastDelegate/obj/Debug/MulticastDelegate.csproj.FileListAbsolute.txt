@@ -1,0 +1,6 @@
+C:\C #\day9\DelegateDemo\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\C #\day9\DelegateDemo\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\C #\day9\DelegateDemo\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\C #\day9\DelegateDemo\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\C #\day9\DelegateDemo\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\C #\day9\DelegateDemo\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

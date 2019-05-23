@@ -1,0 +1,13 @@
+C:\C #\winforms 4\Studentdemo\bin\Debug\Studentdemo.exe.config
+C:\C #\winforms 4\Studentdemo\bin\Debug\Studentdemo.exe
+C:\C #\winforms 4\Studentdemo\bin\Debug\Studentdemo.pdb
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.csprojAssemblyReference.cache
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.Form1.resources
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.Properties.Resources.resources
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.csproj.GenerateResource.cache
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.csproj.CoreCompileInputs.cache
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.exe
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.pdb
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.Search.resources
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.Insert.resources
+C:\C #\winforms 4\Studentdemo\obj\Debug\Studentdemo.Gridview.resources

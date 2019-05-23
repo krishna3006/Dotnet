@@ -1,0 +1,6 @@
+C:\C #\day2\project\factorial.cs\Perfectno\obj\Debug\Perfectno.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\Perfectno\bin\Debug\Perfectno.exe.config
+C:\C #\day2\project\factorial.cs\Perfectno\bin\Debug\Perfectno.exe
+C:\C #\day2\project\factorial.cs\Perfectno\bin\Debug\Perfectno.pdb
+C:\C #\day2\project\factorial.cs\Perfectno\obj\Debug\Perfectno.exe
+C:\C #\day2\project\factorial.cs\Perfectno\obj\Debug\Perfectno.pdb

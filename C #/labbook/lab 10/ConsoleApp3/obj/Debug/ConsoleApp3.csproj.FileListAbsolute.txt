@@ -1,0 +1,10 @@
+C:\C #\labbook\LAB 10\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\C #\labbook\LAB 10\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\C #\labbook\LAB 10\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\C #\labbook\LAB 10\ConsoleApp3\bin\Debug\LADRECORD10.dll
+C:\C #\labbook\LAB 10\ConsoleApp3\bin\Debug\LADRECORD10.pdb
+C:\C #\labbook\LAB 10\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\C #\labbook\LAB 10\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 10\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\C #\labbook\LAB 10\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\C #\labbook\LAB 10\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,2 @@
+C:\C #\day 3\project\Arraydemo1\Boxemploy\obj\Debug\Boxemploy.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Boxemploy\obj\Debug\Boxemploy.csprojAssemblyReference.cache

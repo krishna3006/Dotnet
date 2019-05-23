@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\Studentarray\bin\Debug\Studentarray.exe.config
+C:\C #\day 3\project\Arraydemo1\Studentarray\bin\Debug\Studentarray.exe
+C:\C #\day 3\project\Arraydemo1\Studentarray\bin\Debug\Studentarray.pdb
+C:\C #\day 3\project\Arraydemo1\Studentarray\obj\Debug\Studentarray.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\Studentarray\obj\Debug\Studentarray.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Studentarray\obj\Debug\Studentarray.exe
+C:\C #\day 3\project\Arraydemo1\Studentarray\obj\Debug\Studentarray.pdb

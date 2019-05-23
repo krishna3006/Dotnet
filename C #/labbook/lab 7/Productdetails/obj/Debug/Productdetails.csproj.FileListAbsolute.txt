@@ -1,0 +1,6 @@
+C:\C #\labbook\LAB 7\Productdetails\bin\Debug\Productdetails.exe.config
+C:\C #\labbook\LAB 7\Productdetails\bin\Debug\Productdetails.exe
+C:\C #\labbook\LAB 7\Productdetails\bin\Debug\Productdetails.pdb
+C:\C #\labbook\LAB 7\Productdetails\obj\Debug\Productdetails.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 7\Productdetails\obj\Debug\Productdetails.exe
+C:\C #\labbook\LAB 7\Productdetails\obj\Debug\Productdetails.pdb

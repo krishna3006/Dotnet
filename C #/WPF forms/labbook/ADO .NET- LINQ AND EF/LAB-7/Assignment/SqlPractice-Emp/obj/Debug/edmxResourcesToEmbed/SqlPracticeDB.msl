@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sqlpracticeModelStoreContainer" CdmEntityContainer="sqlpracticeEntities">
+    <EntitySetMapping Name="EMps">
+      <EntityTypeMapping TypeName="sqlpracticeModel.EMp">
+        <MappingFragment StoreEntitySet="EMp">
+          <ScalarProperty Name="Empno" ColumnName="Empno" />
+          <ScalarProperty Name="nam" ColumnName="nam" />
+          <ScalarProperty Name="dept" ColumnName="dept" />
+          <ScalarProperty Name="desig" ColumnName="desig" />
+          <ScalarProperty Name="basic" ColumnName="basic" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="sqlpracticeModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="Installment" ColumnName="Installment" />
+          <ScalarProperty Name="Premium" ColumnName="Premium" />
+          <ScalarProperty Name="CustName" ColumnName="CustName" />
+          <ScalarProperty Name="CustID" ColumnName="CustID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

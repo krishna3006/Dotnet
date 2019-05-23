@@ -1,0 +1,5 @@
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Exceptions\bin\Debug\Capgemini.HospitalDetails.Exceptions.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Exceptions\bin\Debug\Capgemini.HospitalDetails.Exceptions.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Exceptions\obj\Debug\Capgemini.HospitalDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Exceptions\obj\Debug\Capgemini.HospitalDetails.Exceptions.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Exceptions\obj\Debug\Capgemini.HospitalDetails.Exceptions.pdb

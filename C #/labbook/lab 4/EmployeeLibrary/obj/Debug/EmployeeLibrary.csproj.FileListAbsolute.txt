@@ -1,0 +1,5 @@
+C:\C #\labbook\lab4\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\C #\labbook\lab4\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\C #\labbook\lab4\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab4\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\C #\labbook\lab4\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

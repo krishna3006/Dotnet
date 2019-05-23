@@ -1,0 +1,7 @@
+C:\C #\day7\Example\Custexp\bin\Debug\Custexp.exe.config
+C:\C #\day7\Example\Custexp\bin\Debug\Custexp.exe
+C:\C #\day7\Example\Custexp\bin\Debug\Custexp.pdb
+C:\C #\day7\Example\Custexp\obj\Debug\Custexp.csprojAssemblyReference.cache
+C:\C #\day7\Example\Custexp\obj\Debug\Custexp.csproj.CoreCompileInputs.cache
+C:\C #\day7\Example\Custexp\obj\Debug\Custexp.exe
+C:\C #\day7\Example\Custexp\obj\Debug\Custexp.pdb

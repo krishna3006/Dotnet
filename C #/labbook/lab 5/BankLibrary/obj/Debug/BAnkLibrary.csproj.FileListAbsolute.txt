@@ -1,0 +1,6 @@
+C:\C #\labbook\LAB 5\BAnkLibrary\bin\Debug\BAnkLibrary.dll
+C:\C #\labbook\LAB 5\BAnkLibrary\bin\Debug\BAnkLibrary.pdb
+C:\C #\labbook\LAB 5\BAnkLibrary\obj\Debug\BAnkLibrary.csprojAssemblyReference.cache
+C:\C #\labbook\LAB 5\BAnkLibrary\obj\Debug\BAnkLibrary.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 5\BAnkLibrary\obj\Debug\BAnkLibrary.dll
+C:\C #\labbook\LAB 5\BAnkLibrary\obj\Debug\BAnkLibrary.pdb

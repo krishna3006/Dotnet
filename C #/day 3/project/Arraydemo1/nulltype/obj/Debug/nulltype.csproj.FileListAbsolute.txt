@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\nulltype\bin\Debug\nulltype.exe.config
+C:\C #\day 3\project\Arraydemo1\nulltype\bin\Debug\nulltype.exe
+C:\C #\day 3\project\Arraydemo1\nulltype\bin\Debug\nulltype.pdb
+C:\C #\day 3\project\Arraydemo1\nulltype\obj\Debug\nulltype.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\nulltype\obj\Debug\nulltype.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\nulltype\obj\Debug\nulltype.exe
+C:\C #\day 3\project\Arraydemo1\nulltype\obj\Debug\nulltype.pdb

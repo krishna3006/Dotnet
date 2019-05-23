@@ -1,0 +1,320 @@
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.rsp
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.rsp
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.AppContext.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Console.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Compression.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Claims.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.ValueTuple.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.rsp
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\WebGrease.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.xml
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.xml
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CoreCompileInputs.cache
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CopyComplete
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csprojAssemblyReference.cache
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.rsp
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.rsp
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.AppContext.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Console.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Compression.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Claims.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.ValueTuple.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.rsp
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\WebGrease.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.xml
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.xml
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csprojAssemblyReference.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CoreCompileInputs.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CopyComplete
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll.config
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe.config
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.rsp
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe.config
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.rsp
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.AppContext.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Console.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe.config
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.rsp
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\WebGrease.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll.config
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.xml
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.xml
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.pdb
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csprojAssemblyReference.cache
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CoreCompileInputs.cache
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CopyComplete
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.dll
+C:\Module 3\ASP.net\Day12\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMSWebApp.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.exe.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csc.rsp
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.exe.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\csi.rsp
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.AppContext.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Console.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Compression.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Claims.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.ValueTuple.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.exe.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\vbc.rsp
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\WebGrease.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BLL.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.BookException.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.DAL.dll.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\BMS.Entity.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\System.Web.Optimization.xml
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Newtonsoft.Json.xml
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Antlr3.Runtime.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csprojAssemblyReference.cache
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CopyComplete
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.pdb

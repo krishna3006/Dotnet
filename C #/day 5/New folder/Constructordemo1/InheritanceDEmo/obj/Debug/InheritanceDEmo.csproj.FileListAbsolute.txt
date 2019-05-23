@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\bin\Debug\InheritanceDEmo.exe.config
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\bin\Debug\InheritanceDEmo.exe
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\bin\Debug\InheritanceDEmo.pdb
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\obj\Debug\InheritanceDEmo.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\obj\Debug\InheritanceDEmo.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\obj\Debug\InheritanceDEmo.exe
+C:\C #\day 5\New folder\Constructordemo1\InheritanceDEmo\obj\Debug\InheritanceDEmo.pdb

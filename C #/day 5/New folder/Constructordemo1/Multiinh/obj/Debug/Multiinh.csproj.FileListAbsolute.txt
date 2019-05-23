@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\bin\Debug\Multiinh.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\bin\Debug\Multiinh.exe
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\bin\Debug\Multiinh.pdb
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\obj\Debug\Multiinh.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\obj\Debug\Multiinh.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\obj\Debug\Multiinh.exe
+C:\C #\day 5\New folder\Constructordemo1\Multiinh\obj\Debug\Multiinh.pdb

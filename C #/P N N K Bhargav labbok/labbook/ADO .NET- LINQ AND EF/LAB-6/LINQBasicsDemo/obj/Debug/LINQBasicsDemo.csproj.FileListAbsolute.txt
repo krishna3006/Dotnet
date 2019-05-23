@@ -1,0 +1,14 @@
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\bin\Debug\LINQBasicsDemo.exe.config
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\bin\Debug\LINQBasicsDemo.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\bin\Debug\LINQBasicsDemo.pdb
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.pdb
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\bin\Debug\LINQBasicsDemo.exe.config
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\bin\Debug\LINQBasicsDemo.exe
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\bin\Debug\LINQBasicsDemo.pdb
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.csprojAssemblyReference.cache
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.csproj.CoreCompileInputs.cache
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.exe
+G:\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-6\LINQBasicsDemo\obj\Debug\LINQBasicsDemo.pdb

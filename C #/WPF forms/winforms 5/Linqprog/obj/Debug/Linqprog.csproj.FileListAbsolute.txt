@@ -1,0 +1,7 @@
+C:\C #\WPF forms\winforms 5\Linqprog\bin\Debug\Linqprog.exe.config
+C:\C #\WPF forms\winforms 5\Linqprog\bin\Debug\Linqprog.exe
+C:\C #\WPF forms\winforms 5\Linqprog\bin\Debug\Linqprog.pdb
+C:\C #\WPF forms\winforms 5\Linqprog\obj\Debug\Linqprog.csprojAssemblyReference.cache
+C:\C #\WPF forms\winforms 5\Linqprog\obj\Debug\Linqprog.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\winforms 5\Linqprog\obj\Debug\Linqprog.exe
+C:\C #\WPF forms\winforms 5\Linqprog\obj\Debug\Linqprog.pdb

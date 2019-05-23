@@ -1,0 +1,6 @@
+C:\C #\MVC\layered architecture\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\C #\MVC\layered architecture\BMS.WcfService\bin\BMS.WcfService.dll
+C:\C #\MVC\layered architecture\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\C #\MVC\layered architecture\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered architecture\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\C #\MVC\layered architecture\BMS.WcfService\obj\Debug\BMS.WcfService.pdb

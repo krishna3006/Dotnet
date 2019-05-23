@@ -1,0 +1,14 @@
+C:\C #\MVC\ApiClientDemo\bin\Debug\ApiClientDemo.exe.config
+C:\C #\MVC\ApiClientDemo\bin\Debug\ApiClientDemo.exe
+C:\C #\MVC\ApiClientDemo\bin\Debug\ApiClientDemo.pdb
+C:\C #\MVC\ApiClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\C #\MVC\ApiClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.csprojAssemblyReference.cache
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.Form1.resources
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.Properties.Resources.resources
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.csproj.GenerateResource.cache
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.csproj.CoreCompileInputs.cache
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.csproj.CopyComplete
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.exe
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.pdb
+C:\C #\MVC\ApiClientDemo\obj\Debug\ApiClientDemo.formEmploySearch.resources

@@ -1,0 +1,11 @@
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\bin\Debug\Capgemini.PatientDetails.Entities.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\bin\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.csproj.CoreCompileInputs.cache
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\bin\Debug\Capgemini.PatientDetails.Entities.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\bin\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.csprojAssemblyReference.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.csproj.CoreCompileInputs.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Entities\obj\Debug\Capgemini.PatientDetails.Entities.pdb

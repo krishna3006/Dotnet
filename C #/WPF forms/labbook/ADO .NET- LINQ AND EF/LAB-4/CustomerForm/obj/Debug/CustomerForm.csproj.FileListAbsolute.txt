@@ -1,0 +1,10 @@
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\bin\Debug\CustomerForm.exe.config
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\bin\Debug\CustomerForm.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\bin\Debug\CustomerForm.pdb
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.Form1.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.Properties.Resources.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.csproj.GenerateResource.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-4\CustomerForm\obj\Debug\CustomerForm.pdb

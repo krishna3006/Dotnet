@@ -1,0 +1,6 @@
+C:\C #\day6\New folder\Collectionsdemo\StackDemo\bin\Debug\StackDemo.exe.config
+C:\C #\day6\New folder\Collectionsdemo\StackDemo\bin\Debug\StackDemo.exe
+C:\C #\day6\New folder\Collectionsdemo\StackDemo\bin\Debug\StackDemo.pdb
+C:\C #\day6\New folder\Collectionsdemo\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\StackDemo\obj\Debug\StackDemo.exe
+C:\C #\day6\New folder\Collectionsdemo\StackDemo\obj\Debug\StackDemo.pdb

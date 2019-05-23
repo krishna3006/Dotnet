@@ -1,0 +1,7 @@
+C:\C #\day4\assignments\Maxminarray\bin\Debug\Maxminarray.exe.config
+C:\C #\day4\assignments\Maxminarray\bin\Debug\Maxminarray.exe
+C:\C #\day4\assignments\Maxminarray\bin\Debug\Maxminarray.pdb
+C:\C #\day4\assignments\Maxminarray\obj\Debug\Maxminarray.csprojAssemblyReference.cache
+C:\C #\day4\assignments\Maxminarray\obj\Debug\Maxminarray.csproj.CoreCompileInputs.cache
+C:\C #\day4\assignments\Maxminarray\obj\Debug\Maxminarray.exe
+C:\C #\day4\assignments\Maxminarray\obj\Debug\Maxminarray.pdb

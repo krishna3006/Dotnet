@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspWcfLayeredDemo", "AspWcfLayeredDemo\AspWcfLayeredDemo.csproj", "{E0829514-C948-4B9E-8F1F-08167CF579E1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EE9DED36-E5F3-4014-A898-897B603C204C} = {EE9DED36-E5F3-4014-A898-897B603C204C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS.Entity", "..\layered architecture\BMS.Entity\BMS.Entity.csproj", "{2ABA9AF9-F8EA-4C93-9936-3CB19C189613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS.BookException", "..\layered architecture\BMS.BookException\BMS.BookException.csproj", "{A453CE6F-CB19-4DF1-8992-61B7D9B6920C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS.WcfService", "..\layered architecture\BMS.WcfService\BMS.WcfService.csproj", "{EE9DED36-E5F3-4014-A898-897B603C204C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS.DAL", "..\layered architecture\BMS.DAL\BMS.DAL.csproj", "{76E5F409-DD1C-4AA9-9AE7-43E645B390DA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EE9DED36-E5F3-4014-A898-897B603C204C} = {EE9DED36-E5F3-4014-A898-897B603C204C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS.BLL", "..\layered architecture\BMS.BLL\BMS.BLL.csproj", "{542D0961-3103-49D7-8349-013EA9084521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0829514-C948-4B9E-8F1F-08167CF579E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0829514-C948-4B9E-8F1F-08167CF579E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0829514-C948-4B9E-8F1F-08167CF579E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0829514-C948-4B9E-8F1F-08167CF579E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABA9AF9-F8EA-4C93-9936-3CB19C189613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABA9AF9-F8EA-4C93-9936-3CB19C189613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABA9AF9-F8EA-4C93-9936-3CB19C189613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABA9AF9-F8EA-4C93-9936-3CB19C189613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A453CE6F-CB19-4DF1-8992-61B7D9B6920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A453CE6F-CB19-4DF1-8992-61B7D9B6920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A453CE6F-CB19-4DF1-8992-61B7D9B6920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A453CE6F-CB19-4DF1-8992-61B7D9B6920C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9DED36-E5F3-4014-A898-897B603C204C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9DED36-E5F3-4014-A898-897B603C204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9DED36-E5F3-4014-A898-897B603C204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9DED36-E5F3-4014-A898-897B603C204C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E5F409-DD1C-4AA9-9AE7-43E645B390DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E5F409-DD1C-4AA9-9AE7-43E645B390DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E5F409-DD1C-4AA9-9AE7-43E645B390DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E5F409-DD1C-4AA9-9AE7-43E645B390DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542D0961-3103-49D7-8349-013EA9084521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542D0961-3103-49D7-8349-013EA9084521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542D0961-3103-49D7-8349-013EA9084521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542D0961-3103-49D7-8349-013EA9084521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDB2EC0-5CB8-41A1-B1AE-7C2EE5FB5E79}
+	EndGlobalSection
+EndGlobal

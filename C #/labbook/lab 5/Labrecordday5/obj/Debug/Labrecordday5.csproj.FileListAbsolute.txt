@@ -1,0 +1,10 @@
+C:\C #\labbook\LAB 5\Labrecordday5\bin\Debug\Labrecordday5.exe.config
+C:\C #\labbook\LAB 5\Labrecordday5\bin\Debug\Labrecordday5.exe
+C:\C #\labbook\LAB 5\Labrecordday5\bin\Debug\Labrecordday5.pdb
+C:\C #\labbook\LAB 5\Labrecordday5\bin\Debug\BAnkLibrary.dll
+C:\C #\labbook\LAB 5\Labrecordday5\bin\Debug\BAnkLibrary.pdb
+C:\C #\labbook\LAB 5\Labrecordday5\obj\Debug\Labrecordday5.csprojAssemblyReference.cache
+C:\C #\labbook\LAB 5\Labrecordday5\obj\Debug\Labrecordday5.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 5\Labrecordday5\obj\Debug\Labrecordday5.csproj.CopyComplete
+C:\C #\labbook\LAB 5\Labrecordday5\obj\Debug\Labrecordday5.exe
+C:\C #\labbook\LAB 5\Labrecordday5\obj\Debug\Labrecordday5.pdb

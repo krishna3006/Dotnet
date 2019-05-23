@@ -1,0 +1,7 @@
+C:\C #\day2\project\factorial.cs\Armstrong\obj\Debug\Armstrong.csprojAssemblyReference.cache
+C:\C #\day2\project\factorial.cs\Armstrong\obj\Debug\Armstrong.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\Armstrong\bin\Debug\Armstrong.exe.config
+C:\C #\day2\project\factorial.cs\Armstrong\bin\Debug\Armstrong.exe
+C:\C #\day2\project\factorial.cs\Armstrong\bin\Debug\Armstrong.pdb
+C:\C #\day2\project\factorial.cs\Armstrong\obj\Debug\Armstrong.exe
+C:\C #\day2\project\factorial.cs\Armstrong\obj\Debug\Armstrong.pdb

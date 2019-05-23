@@ -1,0 +1,7 @@
+C:\C #\day7\Example\SerDemo\bin\Debug\SerDemo.exe.config
+C:\C #\day7\Example\SerDemo\bin\Debug\SerDemo.exe
+C:\C #\day7\Example\SerDemo\bin\Debug\SerDemo.pdb
+C:\C #\day7\Example\SerDemo\obj\Debug\SerDemo.csprojAssemblyReference.cache
+C:\C #\day7\Example\SerDemo\obj\Debug\SerDemo.csproj.CoreCompileInputs.cache
+C:\C #\day7\Example\SerDemo\obj\Debug\SerDemo.exe
+C:\C #\day7\Example\SerDemo\obj\Debug\SerDemo.pdb

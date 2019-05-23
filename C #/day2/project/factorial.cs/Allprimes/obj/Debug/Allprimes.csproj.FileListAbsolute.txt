@@ -1,0 +1,7 @@
+C:\C #\day2\project\factorial.cs\Allprimes\obj\Debug\Allprimes.csprojAssemblyReference.cache
+C:\C #\day2\project\factorial.cs\Allprimes\obj\Debug\Allprimes.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\Allprimes\bin\Debug\Allprimes.exe.config
+C:\C #\day2\project\factorial.cs\Allprimes\bin\Debug\Allprimes.exe
+C:\C #\day2\project\factorial.cs\Allprimes\bin\Debug\Allprimes.pdb
+C:\C #\day2\project\factorial.cs\Allprimes\obj\Debug\Allprimes.exe
+C:\C #\day2\project\factorial.cs\Allprimes\obj\Debug\Allprimes.pdb

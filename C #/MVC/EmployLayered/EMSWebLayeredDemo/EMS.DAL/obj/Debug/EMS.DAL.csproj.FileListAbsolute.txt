@@ -1,0 +1,23 @@
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.DAL.dll.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.DAL.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.DAL.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.EmployException.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.Entity.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.EmployException.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.Entity.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.csproj.CopyComplete
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.DAL.dll.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.DAL.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.DAL.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.EmployException.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.Entity.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.EmployException.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\bin\Debug\EMS.Entity.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.csprojAssemblyReference.cache
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.csproj.CopyComplete
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMS.DAL\obj\Debug\EMS.DAL.pdb

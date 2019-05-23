@@ -1,0 +1,7 @@
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\bin\Debug\GenStudentdemo.exe.config
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\bin\Debug\GenStudentdemo.exe
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\bin\Debug\GenStudentdemo.pdb
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\obj\Debug\GenStudentdemo.csprojAssemblyReference.cache
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\obj\Debug\GenStudentdemo.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\obj\Debug\GenStudentdemo.exe
+C:\C #\day6\New folder\Collectionsdemo\GenStudentdemo\obj\Debug\GenStudentdemo.pdb

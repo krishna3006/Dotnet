@@ -1,0 +1,6 @@
+C:\C #\day 5\New folder\Constructordemo1\Absclass\bin\Debug\Absclass.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Absclass\bin\Debug\Absclass.exe
+C:\C #\day 5\New folder\Constructordemo1\Absclass\bin\Debug\Absclass.pdb
+C:\C #\day 5\New folder\Constructordemo1\Absclass\obj\Debug\Absclass.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Absclass\obj\Debug\Absclass.exe
+C:\C #\day 5\New folder\Constructordemo1\Absclass\obj\Debug\Absclass.pdb

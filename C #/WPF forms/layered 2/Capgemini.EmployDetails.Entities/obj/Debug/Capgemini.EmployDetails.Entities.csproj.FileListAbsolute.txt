@@ -1,0 +1,6 @@
+C:\C #\WPF forms\layered 2\Capgemini.EmployDetails.Entities\bin\Debug\Capgemini.EmployDetails.Entities.dll
+C:\C #\WPF forms\layered 2\Capgemini.EmployDetails.Entities\bin\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\C #\WPF forms\layered 2\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.csprojAssemblyReference.cache
+C:\C #\WPF forms\layered 2\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\layered 2\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.dll
+C:\C #\WPF forms\layered 2\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.pdb

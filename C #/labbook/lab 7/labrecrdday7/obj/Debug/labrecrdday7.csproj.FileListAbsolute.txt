@@ -1,0 +1,10 @@
+C:\C #\labbook\LAB 8\labrecrdday7\bin\Debug\labrecrdday7.exe.config
+C:\C #\labbook\LAB 8\labrecrdday7\bin\Debug\labrecrdday7.exe
+C:\C #\labbook\LAB 8\labrecrdday7\bin\Debug\labrecrdday7.pdb
+C:\C #\labbook\LAB 8\labrecrdday7\bin\Debug\labrecord7.dll
+C:\C #\labbook\LAB 8\labrecrdday7\bin\Debug\labrecord7.pdb
+C:\C #\labbook\LAB 8\labrecrdday7\obj\Debug\labrecrdday7.csprojAssemblyReference.cache
+C:\C #\labbook\LAB 8\labrecrdday7\obj\Debug\labrecrdday7.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 8\labrecrdday7\obj\Debug\labrecrdday7.csproj.CopyComplete
+C:\C #\labbook\LAB 8\labrecrdday7\obj\Debug\labrecrdday7.exe
+C:\C #\labbook\LAB 8\labrecrdday7\obj\Debug\labrecrdday7.pdb

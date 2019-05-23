@@ -1,0 +1,11 @@
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\bin\Debug\Cagemini.HospitalDetails.DataAccessLayer.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\bin\Debug\Capgemini.HospitalDetails.Entities.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\bin\Debug\Capgemini.HospitalDetails.Exceptions.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\bin\Debug\Capgemini.HospitalDetails.Entities.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\bin\Debug\Capgemini.HospitalDetails.Exceptions.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\obj\Debug\Cagemini.HospitalDetails.DataAccessLayer.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\obj\Debug\Cagemini.HospitalDetails.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\obj\Debug\Cagemini.HospitalDetails.DataAccessLayer.csproj.CopyComplete
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\obj\Debug\Cagemini.HospitalDetails.DataAccessLayer.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Cagemini.HospitalDetails.DataAccessLayer\obj\Debug\Cagemini.HospitalDetails.DataAccessLayer.pdb

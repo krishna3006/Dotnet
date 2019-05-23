@@ -1,0 +1,5 @@
+C:\C #\labbook\LAB 8\labrecord7\obj\Debug\labrecord7.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 8\labrecord7\bin\Debug\labrecord7.dll
+C:\C #\labbook\LAB 8\labrecord7\bin\Debug\labrecord7.pdb
+C:\C #\labbook\LAB 8\labrecord7\obj\Debug\labrecord7.dll
+C:\C #\labbook\LAB 8\labrecord7\obj\Debug\labrecord7.pdb

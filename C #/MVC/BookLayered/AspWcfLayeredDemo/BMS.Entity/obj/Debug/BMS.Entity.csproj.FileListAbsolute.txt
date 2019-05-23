@@ -1,0 +1,12 @@
+C:\BookLayered\AspWcfLayeredDemo\BMS.Entity\bin\Debug\BMS.Entity.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.Entity\bin\Debug\BMS.Entity.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.csprojAssemblyReference.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.csproj.CoreCompileInputs.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.Entity\bin\Debug\BMS.Entity.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.Entity\bin\Debug\BMS.Entity.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.csprojAssemblyReference.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.csproj.CoreCompileInputs.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.Entity\obj\Debug\BMS.Entity.pdb

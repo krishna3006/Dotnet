@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\bin\Debug\Propdemo1.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\bin\Debug\Propdemo1.exe
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\bin\Debug\Propdemo1.pdb
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\obj\Debug\Propdemo1.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\obj\Debug\Propdemo1.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\obj\Debug\Propdemo1.exe
+C:\C #\day 5\New folder\Constructordemo1\Propdemo1\obj\Debug\Propdemo1.pdb

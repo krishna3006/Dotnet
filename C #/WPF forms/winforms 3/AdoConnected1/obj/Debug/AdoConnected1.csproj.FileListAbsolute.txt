@@ -1,0 +1,11 @@
+C:\C #\winforms 3\AdoConnected1\bin\Debug\AdoConnected1.exe.config
+C:\C #\winforms 3\AdoConnected1\bin\Debug\AdoConnected1.exe
+C:\C #\winforms 3\AdoConnected1\bin\Debug\AdoConnected1.pdb
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.csprojAssemblyReference.cache
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.Form1.resources
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.Properties.Resources.resources
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.csproj.GenerateResource.cache
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.csproj.CoreCompileInputs.cache
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.exe
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.pdb
+C:\C #\winforms 3\AdoConnected1\obj\Debug\AdoConnected1.Agent.resources

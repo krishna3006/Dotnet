@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Readonly\bin\Debug\Readonly.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Readonly\bin\Debug\Readonly.exe
+C:\C #\day 5\New folder\Constructordemo1\Readonly\bin\Debug\Readonly.pdb
+C:\C #\day 5\New folder\Constructordemo1\Readonly\obj\Debug\Readonly.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Readonly\obj\Debug\Readonly.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Readonly\obj\Debug\Readonly.exe
+C:\C #\day 5\New folder\Constructordemo1\Readonly\obj\Debug\Readonly.pdb

@@ -1,0 +1,7 @@
+C:\C #\WCF\WCF CalcService\bin\WCF CalcService.dll.config
+C:\C #\WCF\WCF CalcService\bin\WCF CalcService.dll
+C:\C #\WCF\WCF CalcService\bin\WCF CalcService.pdb
+C:\C #\WCF\WCF CalcService\obj\Debug\WCF CalcService.csprojAssemblyReference.cache
+C:\C #\WCF\WCF CalcService\obj\Debug\WCF CalcService.csproj.CoreCompileInputs.cache
+C:\C #\WCF\WCF CalcService\obj\Debug\WCF CalcService.dll
+C:\C #\WCF\WCF CalcService\obj\Debug\WCF CalcService.pdb

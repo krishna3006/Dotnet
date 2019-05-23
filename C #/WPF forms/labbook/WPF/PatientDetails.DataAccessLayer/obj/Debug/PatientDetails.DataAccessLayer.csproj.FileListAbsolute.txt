@@ -1,0 +1,11 @@
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\obj\Debug\PatientDetails.DataAccessLayer.csprojAssemblyReference.cache
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\obj\Debug\PatientDetails.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\bin\Debug\PatientDetails.DataAccessLayer.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\bin\Debug\PatientDetails.DataAccessLayer.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\bin\Debug\PatientDetails.Entity.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\bin\Debug\PatientDetails.Exceptions.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\bin\Debug\PatientDetails.Entity.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\bin\Debug\PatientDetails.Exceptions.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\obj\Debug\PatientDetails.DataAccessLayer.csproj.CopyComplete
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\obj\Debug\PatientDetails.DataAccessLayer.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.DataAccessLayer\obj\Debug\PatientDetails.DataAccessLayer.pdb

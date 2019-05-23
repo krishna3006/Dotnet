@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\bin\Debug\Staticvariable.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\bin\Debug\Staticvariable.exe
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\bin\Debug\Staticvariable.pdb
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\obj\Debug\Staticvariable.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\obj\Debug\Staticvariable.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\obj\Debug\Staticvariable.exe
+C:\C #\day 5\New folder\Constructordemo1\Staticvariable\obj\Debug\Staticvariable.pdb

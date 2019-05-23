@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF CalcService", "WCF CalcService.csproj", "{49407DCC-C29D-4EBF-93CA-68F22E47ABFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationWebClient", "..\CalculationWebClient\CalculationWebClient.csproj", "{6290C943-18AE-4F1A-9601-EEF685B66837}"
+	ProjectSection(ProjectDependencies) = postProject
+		{49407DCC-C29D-4EBF-93CA-68F22E47ABFC} = {49407DCC-C29D-4EBF-93CA-68F22E47ABFC}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49407DCC-C29D-4EBF-93CA-68F22E47ABFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49407DCC-C29D-4EBF-93CA-68F22E47ABFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49407DCC-C29D-4EBF-93CA-68F22E47ABFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49407DCC-C29D-4EBF-93CA-68F22E47ABFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6290C943-18AE-4F1A-9601-EEF685B66837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6290C943-18AE-4F1A-9601-EEF685B66837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6290C943-18AE-4F1A-9601-EEF685B66837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6290C943-18AE-4F1A-9601-EEF685B66837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC4513D3-5EE7-4ACC-9ACB-D250F0A94752}
+	EndGlobalSection
+EndGlobal

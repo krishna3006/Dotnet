@@ -1,0 +1,6 @@
+C:\C #\day6\New folder\Collectionsdemo\QuizDll\obj\Debug\QuizDll.csprojAssemblyReference.cache
+C:\C #\day6\New folder\Collectionsdemo\QuizDll\obj\Debug\QuizDll.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\QuizDll\bin\Debug\QuizDll.dll
+C:\C #\day6\New folder\Collectionsdemo\QuizDll\bin\Debug\QuizDll.pdb
+C:\C #\day6\New folder\Collectionsdemo\QuizDll\obj\Debug\QuizDll.dll
+C:\C #\day6\New folder\Collectionsdemo\QuizDll\obj\Debug\QuizDll.pdb

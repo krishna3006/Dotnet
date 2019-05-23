@@ -1,0 +1,6 @@
+C:\C #\labbook\lab 11\Class\bin\Debug\Class.dll
+C:\C #\labbook\lab 11\Class\bin\Debug\Class.pdb
+C:\C #\labbook\lab 11\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\C #\labbook\lab 11\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab 11\Class\obj\Debug\Class.dll
+C:\C #\labbook\lab 11\Class\obj\Debug\Class.pdb

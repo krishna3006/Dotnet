@@ -1,0 +1,7 @@
+C:\C #\day9\Attr1\bin\Debug\Attr1.exe.config
+C:\C #\day9\Attr1\bin\Debug\Attr1.exe
+C:\C #\day9\Attr1\bin\Debug\Attr1.pdb
+C:\C #\day9\Attr1\obj\Debug\Attr1.csprojAssemblyReference.cache
+C:\C #\day9\Attr1\obj\Debug\Attr1.csproj.CoreCompileInputs.cache
+C:\C #\day9\Attr1\obj\Debug\Attr1.exe
+C:\C #\day9\Attr1\obj\Debug\Attr1.pdb

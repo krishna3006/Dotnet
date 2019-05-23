@@ -1,0 +1,5 @@
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Exceptions\bin\Debug\PatientDetails.Exceptions.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Exceptions\bin\Debug\PatientDetails.Exceptions.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Exceptions\obj\Debug\PatientDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Exceptions\obj\Debug\PatientDetails.Exceptions.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Exceptions\obj\Debug\PatientDetails.Exceptions.pdb

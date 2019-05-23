@@ -1,0 +1,10 @@
+C:\C #\day7\Demo1\ReflectionClient\bin\Debug\ReflectionClient.exe.config
+C:\C #\day7\Demo1\ReflectionClient\bin\Debug\ReflectionClient.exe
+C:\C #\day7\Demo1\ReflectionClient\bin\Debug\ReflectionClient.pdb
+C:\C #\day7\Demo1\ReflectionClient\bin\Debug\ReflectionDemo.dll
+C:\C #\day7\Demo1\ReflectionClient\bin\Debug\ReflectionDemo.pdb
+C:\C #\day7\Demo1\ReflectionClient\obj\Debug\ReflectionClient.csprojAssemblyReference.cache
+C:\C #\day7\Demo1\ReflectionClient\obj\Debug\ReflectionClient.csproj.CoreCompileInputs.cache
+C:\C #\day7\Demo1\ReflectionClient\obj\Debug\ReflectionClient.csproj.CopyComplete
+C:\C #\day7\Demo1\ReflectionClient\obj\Debug\ReflectionClient.exe
+C:\C #\day7\Demo1\ReflectionClient\obj\Debug\ReflectionClient.pdb

@@ -1,0 +1,6 @@
+C:\C #\labbook\lab2\Lab\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab2\Lab\Boxing\bin\Debug\Boxing.exe.config
+C:\C #\labbook\lab2\Lab\Boxing\bin\Debug\Boxing.exe
+C:\C #\labbook\lab2\Lab\Boxing\bin\Debug\Boxing.pdb
+C:\C #\labbook\lab2\Lab\Boxing\obj\Debug\Boxing.exe
+C:\C #\labbook\lab2\Lab\Boxing\obj\Debug\Boxing.pdb

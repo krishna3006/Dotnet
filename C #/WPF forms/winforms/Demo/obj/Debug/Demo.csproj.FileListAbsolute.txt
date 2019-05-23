@@ -1,0 +1,11 @@
+C:\C #\winforms\Demo\bin\Debug\Demo.exe.config
+C:\C #\winforms\Demo\bin\Debug\Demo.exe
+C:\C #\winforms\Demo\bin\Debug\Demo.pdb
+C:\C #\winforms\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\C #\winforms\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\C #\winforms\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\C #\winforms\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\C #\winforms\Demo\obj\Debug\Demo.exe
+C:\C #\winforms\Demo\obj\Debug\Demo.pdb
+C:\C #\winforms\Demo\obj\Debug\Demo.Form1.resources
+C:\C #\winforms\Demo\obj\Debug\Demo.Form3.resources

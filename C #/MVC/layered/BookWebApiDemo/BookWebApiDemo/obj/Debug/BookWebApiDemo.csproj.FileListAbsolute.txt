@@ -1,0 +1,172 @@
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\BookWebApiDemo.dll.config
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\BookWebApiDemo.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\BookWebApiDemo.pdb
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csc.exe
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csc.exe.config
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csc.rsp
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csi.exe
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csi.exe.config
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csi.rsp
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Console.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\vbc.exe
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\vbc.exe.config
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\vbc.rsp
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Antlr3.Runtime.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Newtonsoft.Json.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Helpers.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Mvc.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Optimization.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Razor.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\WebGrease.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Newtonsoft.Json.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Helpers.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Mvc.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Optimization.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Razor.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.csprojAssemblyReference.cache
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.csproj.CopyComplete
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.dll
+C:\Users\Abridge\source\repos\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.pdb
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\BookWebApiDemo.dll.config
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\BookWebApiDemo.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\BookWebApiDemo.pdb
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csc.exe
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csc.exe.config
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csc.rsp
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csi.exe
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csi.exe.config
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\csi.rsp
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.AppContext.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Console.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.Compression.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.IO.Pipes.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Claims.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.ValueTuple.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.XPath.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\vbc.exe
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\vbc.exe.config
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\vbc.rsp
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\VBCSCompiler.exe
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Antlr3.Runtime.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.SqlServer.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Newtonsoft.Json.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Net.Http.Formatting.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Helpers.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.WebHost.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Mvc.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Optimization.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Razor.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Deployment.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Razor.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\WebGrease.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\EntityFramework.SqlServer.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Newtonsoft.Json.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Net.Http.Formatting.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Helpers.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Http.WebHost.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Mvc.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Optimization.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.Razor.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Deployment.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\System.Web.WebPages.Razor.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Antlr3.Runtime.pdb
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.csprojAssemblyReference.cache
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.csproj.CopyComplete
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.dll
+C:\C #\MVC\layered\BookWebApiDemo\BookWebApiDemo\obj\Debug\BookWebApiDemo.pdb

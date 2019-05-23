@@ -1,0 +1,6 @@
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Entities\bin\Debug\Capgemini.HospitalDetails.Entities.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Entities\bin\Debug\Capgemini.HospitalDetails.Entities.pdb
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Entities\obj\Debug\Capgemini.HospitalDetails.Entities.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Entities\obj\Debug\Capgemini.HospitalDetails.Entities.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Entities\obj\Debug\Capgemini.HospitalDetails.Entities.dll
+C:\C#\LABBOOK-Module 2\WPF-LAB\Capgemini.HospitalDetails.Entities\obj\Debug\Capgemini.HospitalDetails.Entities.pdb

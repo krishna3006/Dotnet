@@ -1,0 +1,19 @@
+﻿<Window x:Class="EmployApplicationWPF.EmployInsert"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployApplicationWPF"
+        mc:Ignorable="d"
+        Title="EmployInsert" Height="385.792" Width="416.486">
+    <Grid>
+        <Label Content="Employ Name" HorizontalAlignment="Left" Margin="39,41,0,0" VerticalAlignment="Top" Width="134" FontSize="18" FontWeight="Bold"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="216,52,0,0" TextWrapping="Wrap" Text="" Name="txtEmpname" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Department" HorizontalAlignment="Left" Margin="39,97,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Width="123"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="216,108,0,0" TextWrapping="Wrap" Text="" Name="txtDepartment" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Salary" HorizontalAlignment="Left" Margin="39,153,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="216,164,0,0" TextWrapping="Wrap" Text="" Name="txtSalary" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Insert" HorizontalAlignment="Left" Margin="133,250,0,0" VerticalAlignment="Top" Width="75"  FontSize="18" FontWeight="Bold" Click="Button_Click"/>
+
+    </Grid>
+</Window>

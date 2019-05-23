@@ -1,0 +1,6 @@
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.Entity\bin\Debug\EMS.Entity.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.Entity\bin\Debug\EMS.Entity.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.Entity\obj\Debug\EMS.Entity.csproj.CoreCompileInputs.cache
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.Entity\obj\Debug\EMS.Entity.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMS.Entity\obj\Debug\EMS.Entity.pdb

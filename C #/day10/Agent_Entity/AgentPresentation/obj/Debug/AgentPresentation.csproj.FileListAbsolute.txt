@@ -1,0 +1,16 @@
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\AgentPresentation.exe.config
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\AgentPresentation.exe
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\AgentPresentation.pdb
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_BLL.dll
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_Entity.dll
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_Exceptions.dll
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_Operations.dll
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_BLL.pdb
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_Entity.pdb
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_Exceptions.pdb
+C:\C #\day10\Agent_Entity\AgentPresentation\bin\Debug\Agent_Operations.pdb
+C:\C #\day10\Agent_Entity\AgentPresentation\obj\Debug\AgentPresentation.csprojAssemblyReference.cache
+C:\C #\day10\Agent_Entity\AgentPresentation\obj\Debug\AgentPresentation.csproj.CoreCompileInputs.cache
+C:\C #\day10\Agent_Entity\AgentPresentation\obj\Debug\AgentPresentation.csproj.CopyComplete
+C:\C #\day10\Agent_Entity\AgentPresentation\obj\Debug\AgentPresentation.exe
+C:\C #\day10\Agent_Entity\AgentPresentation\obj\Debug\AgentPresentation.pdb

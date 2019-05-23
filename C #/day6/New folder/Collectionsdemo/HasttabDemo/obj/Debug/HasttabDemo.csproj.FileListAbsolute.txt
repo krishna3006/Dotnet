@@ -1,0 +1,6 @@
+C:\C #\day6\New folder\Collectionsdemo\HasttabDemo\bin\Debug\HasttabDemo.exe.config
+C:\C #\day6\New folder\Collectionsdemo\HasttabDemo\bin\Debug\HasttabDemo.exe
+C:\C #\day6\New folder\Collectionsdemo\HasttabDemo\bin\Debug\HasttabDemo.pdb
+C:\C #\day6\New folder\Collectionsdemo\HasttabDemo\obj\Debug\HasttabDemo.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\HasttabDemo\obj\Debug\HasttabDemo.exe
+C:\C #\day6\New folder\Collectionsdemo\HasttabDemo\obj\Debug\HasttabDemo.pdb

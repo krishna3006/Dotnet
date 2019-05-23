@@ -1,0 +1,7 @@
+C:\C #\day 5\New folder\Constructordemo1\Abseg\bin\Debug\Abseg.exe.config
+C:\C #\day 5\New folder\Constructordemo1\Abseg\bin\Debug\Abseg.exe
+C:\C #\day 5\New folder\Constructordemo1\Abseg\bin\Debug\Abseg.pdb
+C:\C #\day 5\New folder\Constructordemo1\Abseg\obj\Debug\Abseg.csprojAssemblyReference.cache
+C:\C #\day 5\New folder\Constructordemo1\Abseg\obj\Debug\Abseg.csproj.CoreCompileInputs.cache
+C:\C #\day 5\New folder\Constructordemo1\Abseg\obj\Debug\Abseg.exe
+C:\C #\day 5\New folder\Constructordemo1\Abseg\obj\Debug\Abseg.pdb

@@ -1,0 +1,6 @@
+C:\C #\day9\Delegae2\bin\Debug\Delegae2.exe.config
+C:\C #\day9\Delegae2\bin\Debug\Delegae2.exe
+C:\C #\day9\Delegae2\bin\Debug\Delegae2.pdb
+C:\C #\day9\Delegae2\obj\Debug\Delegae2.csproj.CoreCompileInputs.cache
+C:\C #\day9\Delegae2\obj\Debug\Delegae2.exe
+C:\C #\day9\Delegae2\obj\Debug\Delegae2.pdb

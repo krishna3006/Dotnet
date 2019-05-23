@@ -1,0 +1,2 @@
+C:\C #\day6\New folder\Collectionsdemo\Gencust1\obj\Debug\Gencust1.csprojAssemblyReference.cache
+C:\C #\day6\New folder\Collectionsdemo\Gencust1\obj\Debug\Gencust1.csproj.CoreCompileInputs.cache

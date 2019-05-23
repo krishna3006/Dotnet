@@ -1,0 +1,160 @@
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMSWebLayeredDemo.dll.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMSWebLayeredDemo.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMSWebLayeredDemo.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csc.exe
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csc.exe.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csc.rsp
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csi.exe
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csi.exe.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csi.rsp
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.AppContext.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Console.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.Compression.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Claims.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.ValueTuple.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\vbc.exe
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\vbc.exe.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\vbc.rsp
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\VBCSCompiler.exe
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Antlr3.Runtime.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Newtonsoft.Json.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\System.Web.Optimization.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\WebGrease.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\System.Web.Optimization.xml
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Newtonsoft.Json.xml
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Antlr3.Runtime.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.csproj.CoreCompileInputs.cache
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.csproj.CopyComplete
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.BLL.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.DAL.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.EmployException.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.Entity.dll
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.BLL.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.DAL.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.DAL.dll.config
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.EmployException.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.Entity.pdb
+C:\Layered\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.csprojAssemblyReference.cache
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMSWebLayeredDemo.dll.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMSWebLayeredDemo.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMSWebLayeredDemo.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csc.exe
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csc.exe.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csc.rsp
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csi.exe
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csi.exe.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\csi.rsp
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.AppContext.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Console.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.Compression.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.IO.Pipes.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Claims.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.ValueTuple.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.XPath.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\vbc.exe
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\vbc.exe.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\vbc.rsp
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\VBCSCompiler.exe
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Antlr3.Runtime.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.BLL.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.DAL.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.EmployException.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.Entity.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Newtonsoft.Json.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\System.Web.Optimization.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\WebGrease.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.BLL.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.DAL.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.DAL.dll.config
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.EmployException.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\EMS.Entity.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\System.Web.Optimization.xml
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Newtonsoft.Json.xml
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Antlr3.Runtime.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.csproj.CoreCompileInputs.cache
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.csproj.CopyComplete
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.dll
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.pdb
+C:\C #\MVC\EmployLayered\EMSWebLayeredDemo\EMSWebLayeredDemo\obj\Debug\EMSWebLayeredDemo.csprojAssemblyReference.cache

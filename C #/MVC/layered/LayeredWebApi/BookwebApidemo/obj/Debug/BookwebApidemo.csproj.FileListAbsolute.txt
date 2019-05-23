@@ -1,0 +1,172 @@
+C:\LayeredWebApi\BookwebApidemo\bin\BookwebApidemo.dll.config
+C:\LayeredWebApi\BookwebApidemo\bin\BookwebApidemo.dll
+C:\LayeredWebApi\BookwebApidemo\bin\BookwebApidemo.pdb
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\csc.exe
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\csc.exe.config
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\csc.rsp
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\csi.exe
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\csi.exe.config
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\csi.rsp
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.AppContext.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Collections.Immutable.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Console.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.Compression.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.FileSystem.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.Pipes.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.AccessControl.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Claims.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.ValueTuple.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.XPath.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\vbc.exe
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\vbc.exe.config
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\vbc.rsp
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\VBCSCompiler.exe
+C:\LayeredWebApi\BookwebApidemo\bin\roslyn\VBCSCompiler.exe.config
+C:\LayeredWebApi\BookwebApidemo\bin\Antlr3.Runtime.dll
+C:\LayeredWebApi\BookwebApidemo\bin\EntityFramework.dll
+C:\LayeredWebApi\BookwebApidemo\bin\EntityFramework.SqlServer.dll
+C:\LayeredWebApi\BookwebApidemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LayeredWebApi\BookwebApidemo\bin\Microsoft.Web.Infrastructure.dll
+C:\LayeredWebApi\BookwebApidemo\bin\Newtonsoft.Json.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Net.Http.Formatting.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Helpers.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.WebHost.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Mvc.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Optimization.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Razor.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Deployment.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.dll
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Razor.dll
+C:\LayeredWebApi\BookwebApidemo\bin\WebGrease.dll
+C:\LayeredWebApi\BookwebApidemo\bin\EntityFramework.xml
+C:\LayeredWebApi\BookwebApidemo\bin\EntityFramework.SqlServer.xml
+C:\LayeredWebApi\BookwebApidemo\bin\Newtonsoft.Json.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Net.Http.Formatting.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Helpers.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.WebHost.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Mvc.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Optimization.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.Razor.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Deployment.xml
+C:\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Razor.xml
+C:\LayeredWebApi\BookwebApidemo\bin\Antlr3.Runtime.pdb
+C:\LayeredWebApi\BookwebApidemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.csprojAssemblyReference.cache
+C:\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.csproj.CoreCompileInputs.cache
+C:\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.csproj.CopyComplete
+C:\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.dll
+C:\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.pdb
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\BookwebApidemo.dll.config
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\BookwebApidemo.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\BookwebApidemo.pdb
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\csc.exe
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\csc.exe.config
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\csc.rsp
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\csi.exe
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\csi.exe.config
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\csi.rsp
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.AppContext.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Collections.Immutable.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Console.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.Compression.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.FileSystem.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.IO.Pipes.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.AccessControl.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Claims.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.ValueTuple.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.XPath.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\vbc.exe
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\vbc.exe.config
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\vbc.rsp
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\VBCSCompiler.exe
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\roslyn\VBCSCompiler.exe.config
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Antlr3.Runtime.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\EntityFramework.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\EntityFramework.SqlServer.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Microsoft.Web.Infrastructure.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Newtonsoft.Json.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Net.Http.Formatting.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Helpers.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.WebHost.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Mvc.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Optimization.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Razor.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Deployment.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Razor.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\WebGrease.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\EntityFramework.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\EntityFramework.SqlServer.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Newtonsoft.Json.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Net.Http.Formatting.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Helpers.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Http.WebHost.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Mvc.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Optimization.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.Razor.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Deployment.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\System.Web.WebPages.Razor.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Antlr3.Runtime.pdb
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.csprojAssemblyReference.cache
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.csproj.CopyComplete
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.dll
+C:\C #\MVC\layered\LayeredWebApi\BookwebApidemo\obj\Debug\BookwebApidemo.pdb

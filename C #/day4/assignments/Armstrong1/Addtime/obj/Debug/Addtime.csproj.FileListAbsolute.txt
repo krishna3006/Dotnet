@@ -1,0 +1,7 @@
+C:\C #\day4\assignments\Armstrong1\Addtime\bin\Debug\Addtime.exe.config
+C:\C #\day4\assignments\Armstrong1\Addtime\bin\Debug\Addtime.exe
+C:\C #\day4\assignments\Armstrong1\Addtime\bin\Debug\Addtime.pdb
+C:\C #\day4\assignments\Armstrong1\Addtime\obj\Debug\Addtime.csprojAssemblyReference.cache
+C:\C #\day4\assignments\Armstrong1\Addtime\obj\Debug\Addtime.csproj.CoreCompileInputs.cache
+C:\C #\day4\assignments\Armstrong1\Addtime\obj\Debug\Addtime.exe
+C:\C #\day4\assignments\Armstrong1\Addtime\obj\Debug\Addtime.pdb

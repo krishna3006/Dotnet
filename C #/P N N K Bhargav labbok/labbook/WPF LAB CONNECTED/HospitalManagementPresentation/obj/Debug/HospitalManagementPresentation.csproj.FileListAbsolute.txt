@@ -1,0 +1,52 @@
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\HospitalManagementPresentation.exe.config
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\HospitalManagementPresentation.exe
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\HospitalManagementPresentation.pdb
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csprojAssemblyReference.cache
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\MainWindow.g.cs
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\App.g.cs
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation_MarkupCompile.cache
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation_MarkupCompile.lref
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\MainWindow.baml
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.g.resources
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.Properties.Resources.resources
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csproj.GenerateResource.cache
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csproj.CoreCompileInputs.cache
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.exe
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.pdb
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\PatientDetails.g.cs
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.BusinessLayer.dll
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.dll
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Entities.dll
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.BusinessLayer.pdb
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.pdb
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\PatientDetails.baml
+C:\WPF\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csproj.CopyComplete
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\HospitalManagementPresentation.exe.config
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\HospitalManagementPresentation.exe
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\HospitalManagementPresentation.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.BusinessLayer.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Entities.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.BusinessLayer.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\bin\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csprojAssemblyReference.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\MainWindow.g.cs
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\PatientDetails.g.cs
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\App.g.cs
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation_MarkupCompile.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation_MarkupCompile.lref
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\MainWindow.baml
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\PatientDetails.baml
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.g.resources
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.Properties.Resources.resources
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csproj.GenerateResource.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csproj.CoreCompileInputs.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.csproj.CopyComplete
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.exe
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\HospitalManagementPresentation\obj\Debug\HospitalManagementPresentation.pdb

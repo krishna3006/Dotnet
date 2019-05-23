@@ -1,0 +1,6 @@
+C:\C #\day 3\project\Arraydemo1\Staticdemo\bin\Debug\Staticdemo.exe.config
+C:\C #\day 3\project\Arraydemo1\Staticdemo\bin\Debug\Staticdemo.exe
+C:\C #\day 3\project\Arraydemo1\Staticdemo\bin\Debug\Staticdemo.pdb
+C:\C #\day 3\project\Arraydemo1\Staticdemo\obj\Debug\Staticdemo.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Staticdemo\obj\Debug\Staticdemo.exe
+C:\C #\day 3\project\Arraydemo1\Staticdemo\obj\Debug\Staticdemo.pdb

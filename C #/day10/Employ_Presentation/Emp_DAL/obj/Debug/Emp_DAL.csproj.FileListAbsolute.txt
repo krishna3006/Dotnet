@@ -1,0 +1,11 @@
+C:\C #\day10\Employ_Presentation\Emp_DAL\bin\Debug\Emp_DAL.dll
+C:\C #\day10\Employ_Presentation\Emp_DAL\bin\Debug\Emp_DAL.pdb
+C:\C #\day10\Employ_Presentation\Emp_DAL\obj\Debug\Emp_DAL.csprojAssemblyReference.cache
+C:\C #\day10\Employ_Presentation\Emp_DAL\obj\Debug\Emp_DAL.csproj.CoreCompileInputs.cache
+C:\C #\day10\Employ_Presentation\Emp_DAL\obj\Debug\Emp_DAL.dll
+C:\C #\day10\Employ_Presentation\Emp_DAL\obj\Debug\Emp_DAL.pdb
+C:\C #\day10\Employ_Presentation\Emp_DAL\bin\Debug\EmpEntity.dll
+C:\C #\day10\Employ_Presentation\Emp_DAL\bin\Debug\Emp_Exceptions.dll
+C:\C #\day10\Employ_Presentation\Emp_DAL\bin\Debug\EmpEntity.pdb
+C:\C #\day10\Employ_Presentation\Emp_DAL\bin\Debug\Emp_Exceptions.pdb
+C:\C #\day10\Employ_Presentation\Emp_DAL\obj\Debug\Emp_DAL.csproj.CopyComplete

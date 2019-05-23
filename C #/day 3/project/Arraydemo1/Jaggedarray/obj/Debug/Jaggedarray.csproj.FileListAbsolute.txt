@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\bin\Debug\Jaggedarray.exe.config
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\bin\Debug\Jaggedarray.exe
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\bin\Debug\Jaggedarray.pdb
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\obj\Debug\Jaggedarray.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\obj\Debug\Jaggedarray.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\obj\Debug\Jaggedarray.exe
+C:\C #\day 3\project\Arraydemo1\Jaggedarray\obj\Debug\Jaggedarray.pdb

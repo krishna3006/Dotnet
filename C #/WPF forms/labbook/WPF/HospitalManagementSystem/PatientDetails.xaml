@@ -1,0 +1,40 @@
+﻿<Window x:Class="HospitalManagementSystem.PatientDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HospitalManagementSystem"
+        mc:Ignorable="d"
+        Title="PatientDetails" Height="450" Width="800">
+
+    <TabControl SelectionChanged="TabControl_SelectionChanged">
+        <TabItem Header="Add a Patient">
+            <Grid>
+                <Label Content="PatientId :" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="17,84,533,0" FontFamily="Arial" FontWeight="Bold" Grid.Column="3"/>
+                <TextBox Name="txtPatientid" HorizontalAlignment="Left" Height="23" Margin="220,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                <Label Content="Patient Name :" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="17,140,533,0" RenderTransformOrigin="1.223,1.385" FontFamily="Arial" FontWeight="Bold" Grid.Column="3"/>
+                <TextBox Name="txtPatientname" HorizontalAlignment="Left" Height="23" Margin="220,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                <Label Content="Patient Type :" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="17,192,533,0" FontFamily="Arial" FontWeight="Bold" Grid.Column="3"/>
+                <ComboBox Name="cbPatienttype" HorizontalAlignment="Left" Margin="220,194,0,0" VerticalAlignment="Top" Width="120"/>
+                <Button Content="Submit" HorizontalAlignment="Center" Width="75" Margin="182,279,529,86" Click="Button_Click"/>
+                
+
+            </Grid>
+        </TabItem>
+
+
+        <TabItem Header="View Patient Info ">
+
+            <DataGrid Name="dgPatient" Margin="118,96,99,51" SelectionChanged="DataGrid_SelectionChanged">
+              
+            </DataGrid>
+
+
+        </TabItem>
+        
+
+
+
+    </TabControl>
+
+</Window>

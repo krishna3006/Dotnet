@@ -1,0 +1,21 @@
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.pdb
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Entities.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.csproj.CopyComplete
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.DataAccessLayer.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Entities.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Entities.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\bin\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.csprojAssemblyReference.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.csproj.CopyComplete
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.DataAccessLayer\obj\Debug\Capgemini.PatientDetails.DataAccessLayer.pdb

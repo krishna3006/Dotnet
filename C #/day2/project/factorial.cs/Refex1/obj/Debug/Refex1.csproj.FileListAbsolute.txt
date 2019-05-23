@@ -1,0 +1,6 @@
+C:\C #\day2\project\factorial.cs\Refex1\bin\Debug\Refex1.exe.config
+C:\C #\day2\project\factorial.cs\Refex1\bin\Debug\Refex1.exe
+C:\C #\day2\project\factorial.cs\Refex1\bin\Debug\Refex1.pdb
+C:\C #\day2\project\factorial.cs\Refex1\obj\Debug\Refex1.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\Refex1\obj\Debug\Refex1.exe
+C:\C #\day2\project\factorial.cs\Refex1\obj\Debug\Refex1.pdb

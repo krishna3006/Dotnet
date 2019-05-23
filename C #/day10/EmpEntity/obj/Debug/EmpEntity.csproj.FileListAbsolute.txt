@@ -1,0 +1,6 @@
+C:\C #\day10\EmpEntity\bin\Debug\EmpEntity.dll
+C:\C #\day10\EmpEntity\bin\Debug\EmpEntity.pdb
+C:\C #\day10\EmpEntity\obj\Debug\EmpEntity.csprojAssemblyReference.cache
+C:\C #\day10\EmpEntity\obj\Debug\EmpEntity.csproj.CoreCompileInputs.cache
+C:\C #\day10\EmpEntity\obj\Debug\EmpEntity.dll
+C:\C #\day10\EmpEntity\obj\Debug\EmpEntity.pdb

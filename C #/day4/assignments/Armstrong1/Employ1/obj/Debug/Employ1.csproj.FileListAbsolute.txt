@@ -1,0 +1,7 @@
+C:\C #\day4\assignments\Armstrong1\Employ1\bin\Debug\Employ1.exe.config
+C:\C #\day4\assignments\Armstrong1\Employ1\bin\Debug\Employ1.exe
+C:\C #\day4\assignments\Armstrong1\Employ1\bin\Debug\Employ1.pdb
+C:\C #\day4\assignments\Armstrong1\Employ1\obj\Debug\Employ1.csprojAssemblyReference.cache
+C:\C #\day4\assignments\Armstrong1\Employ1\obj\Debug\Employ1.csproj.CoreCompileInputs.cache
+C:\C #\day4\assignments\Armstrong1\Employ1\obj\Debug\Employ1.exe
+C:\C #\day4\assignments\Armstrong1\Employ1\obj\Debug\Employ1.pdb

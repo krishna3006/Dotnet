@@ -1,0 +1,7 @@
+C:\C #\day7\Example\Empexception\obj\Debug\Empexception.csprojAssemblyReference.cache
+C:\C #\day7\Example\Empexception\obj\Debug\Empexception.csproj.CoreCompileInputs.cache
+C:\C #\day7\Example\Empexception\bin\Debug\Empexception.exe.config
+C:\C #\day7\Example\Empexception\bin\Debug\Empexception.exe
+C:\C #\day7\Example\Empexception\bin\Debug\Empexception.pdb
+C:\C #\day7\Example\Empexception\obj\Debug\Empexception.exe
+C:\C #\day7\Example\Empexception\obj\Debug\Empexception.pdb

@@ -1,0 +1,6 @@
+C:\C #\labbook\LAB 12\labrecord day 12\bin\Debug\labrecord day 12.exe.config
+C:\C #\labbook\LAB 12\labrecord day 12\bin\Debug\labrecord day 12.exe
+C:\C #\labbook\LAB 12\labrecord day 12\bin\Debug\labrecord day 12.pdb
+C:\C #\labbook\LAB 12\labrecord day 12\obj\Debug\labrecord day 12.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 12\labrecord day 12\obj\Debug\labrecord day 12.exe
+C:\C #\labbook\LAB 12\labrecord day 12\obj\Debug\labrecord day 12.pdb

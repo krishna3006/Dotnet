@@ -1,0 +1,6 @@
+C:\C #\labbook\lab3\Labrecord3\bin\Debug\Labrecord3.exe.config
+C:\C #\labbook\lab3\Labrecord3\bin\Debug\Labrecord3.exe
+C:\C #\labbook\lab3\Labrecord3\bin\Debug\Labrecord3.pdb
+C:\C #\labbook\lab3\Labrecord3\obj\Debug\Labrecord3.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab3\Labrecord3\obj\Debug\Labrecord3.exe
+C:\C #\labbook\lab3\Labrecord3\obj\Debug\Labrecord3.pdb

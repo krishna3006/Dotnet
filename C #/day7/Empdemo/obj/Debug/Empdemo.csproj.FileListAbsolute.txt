@@ -1,0 +1,6 @@
+C:\C #\day7\Empdemo\obj\Debug\Empdemo.csproj.CoreCompileInputs.cache
+C:\C #\day7\Empdemo\bin\Debug\Empdemo.exe.config
+C:\C #\day7\Empdemo\bin\Debug\Empdemo.exe
+C:\C #\day7\Empdemo\bin\Debug\Empdemo.pdb
+C:\C #\day7\Empdemo\obj\Debug\Empdemo.exe
+C:\C #\day7\Empdemo\obj\Debug\Empdemo.pdb

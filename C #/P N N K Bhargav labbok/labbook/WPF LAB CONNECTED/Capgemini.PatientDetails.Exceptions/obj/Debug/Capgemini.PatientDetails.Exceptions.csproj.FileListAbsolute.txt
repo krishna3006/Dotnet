@@ -1,0 +1,11 @@
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\bin\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\bin\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\WPF\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\bin\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\bin\Debug\Capgemini.PatientDetails.Exceptions.pdb
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.csprojAssemblyReference.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.dll
+C:\C #\module 2 labbok\labbook\WPF LAB CONNECTED\Capgemini.PatientDetails.Exceptions\obj\Debug\Capgemini.PatientDetails.Exceptions.pdb

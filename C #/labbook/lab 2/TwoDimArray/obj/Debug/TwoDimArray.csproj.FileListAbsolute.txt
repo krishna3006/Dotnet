@@ -1,0 +1,6 @@
+C:\C #\labbook\lab2\TwoDimArray\bin\Debug\TwoDimArray.exe.config
+C:\C #\labbook\lab2\TwoDimArray\bin\Debug\TwoDimArray.exe
+C:\C #\labbook\lab2\TwoDimArray\bin\Debug\TwoDimArray.pdb
+C:\C #\labbook\lab2\TwoDimArray\obj\Debug\TwoDimArray.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab2\TwoDimArray\obj\Debug\TwoDimArray.exe
+C:\C #\labbook\lab2\TwoDimArray\obj\Debug\TwoDimArray.pdb

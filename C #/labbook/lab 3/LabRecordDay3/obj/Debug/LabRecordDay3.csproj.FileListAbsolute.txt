@@ -1,0 +1,7 @@
+C:\C #\labbook\lab3\LabRecordDay3\bin\Debug\LabRecordDay3.exe.config
+C:\C #\labbook\lab3\LabRecordDay3\bin\Debug\LabRecordDay3.exe
+C:\C #\labbook\lab3\LabRecordDay3\bin\Debug\LabRecordDay3.pdb
+C:\C #\labbook\lab3\LabRecordDay3\obj\Debug\LabRecordDay3.csprojAssemblyReference.cache
+C:\C #\labbook\lab3\LabRecordDay3\obj\Debug\LabRecordDay3.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab3\LabRecordDay3\obj\Debug\LabRecordDay3.exe
+C:\C #\labbook\lab3\LabRecordDay3\obj\Debug\LabRecordDay3.pdb

@@ -1,0 +1,6 @@
+C:\C #\day6\New folder\Arrlistexp\obj\Debug\Arrlistexp.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Arrlistexp\bin\Debug\Arrlistexp.exe.config
+C:\C #\day6\New folder\Arrlistexp\bin\Debug\Arrlistexp.exe
+C:\C #\day6\New folder\Arrlistexp\bin\Debug\Arrlistexp.pdb
+C:\C #\day6\New folder\Arrlistexp\obj\Debug\Arrlistexp.exe
+C:\C #\day6\New folder\Arrlistexp\obj\Debug\Arrlistexp.pdb

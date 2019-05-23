@@ -1,0 +1,7 @@
+C:\C #\labbook\LAB 8\labrecord 8\obj\Debug\labrecord 8.csprojAssemblyReference.cache
+C:\C #\labbook\LAB 8\labrecord 8\obj\Debug\labrecord 8.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 8\labrecord 8\bin\Debug\labrecord 8.exe.config
+C:\C #\labbook\LAB 8\labrecord 8\bin\Debug\labrecord 8.exe
+C:\C #\labbook\LAB 8\labrecord 8\bin\Debug\labrecord 8.pdb
+C:\C #\labbook\LAB 8\labrecord 8\obj\Debug\labrecord 8.exe
+C:\C #\labbook\LAB 8\labrecord 8\obj\Debug\labrecord 8.pdb

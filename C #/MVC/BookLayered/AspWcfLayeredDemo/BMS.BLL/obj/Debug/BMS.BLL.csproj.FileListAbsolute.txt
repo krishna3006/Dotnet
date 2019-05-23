@@ -1,0 +1,28 @@
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BLL.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BLL.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BookException.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.DAL.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.Entity.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BookException.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.DAL.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.DAL.dll.config
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.Entity.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CoreCompileInputs.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CopyComplete
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.csprojAssemblyReference.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BLL.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BLL.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BookException.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.DAL.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.Entity.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.BookException.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.DAL.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.DAL.dll.config
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\bin\Debug\BMS.Entity.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.csprojAssemblyReference.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CoreCompileInputs.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.csproj.CopyComplete
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BLL\obj\Debug\BMS.BLL.pdb

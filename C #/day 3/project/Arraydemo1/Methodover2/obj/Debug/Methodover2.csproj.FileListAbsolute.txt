@@ -1,0 +1,6 @@
+C:\C #\day 3\project\Arraydemo1\Methodover2\obj\Debug\Methodover2.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Methodover2\bin\Debug\Methodover2.exe.config
+C:\C #\day 3\project\Arraydemo1\Methodover2\bin\Debug\Methodover2.exe
+C:\C #\day 3\project\Arraydemo1\Methodover2\bin\Debug\Methodover2.pdb
+C:\C #\day 3\project\Arraydemo1\Methodover2\obj\Debug\Methodover2.exe
+C:\C #\day 3\project\Arraydemo1\Methodover2\obj\Debug\Methodover2.pdb

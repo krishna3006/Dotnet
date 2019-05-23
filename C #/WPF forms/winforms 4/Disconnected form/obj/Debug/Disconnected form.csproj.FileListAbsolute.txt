@@ -1,0 +1,13 @@
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected form.csprojAssemblyReference.cache
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected_form.Form1.resources
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected_form.Properties.Resources.resources
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected form.csproj.GenerateResource.cache
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected form.csproj.CoreCompileInputs.cache
+C:\C #\winforms 4\Disconnected form\bin\Debug\Disconnected form.exe.config
+C:\C #\winforms 4\Disconnected form\bin\Debug\Disconnected form.exe
+C:\C #\winforms 4\Disconnected form\bin\Debug\Disconnected form.pdb
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected form.exe
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected form.pdb
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected_form.Form2.resources
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected_form.Form3.resources
+C:\C #\winforms 4\Disconnected form\obj\Debug\Disconnected_form.Form4.resources

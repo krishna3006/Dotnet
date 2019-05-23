@@ -1,0 +1,7 @@
+C:\C #\day7\Demo1\Extdemo\obj\Debug\Extdemo.csprojAssemblyReference.cache
+C:\C #\day7\Demo1\Extdemo\obj\Debug\Extdemo.csproj.CoreCompileInputs.cache
+C:\C #\day7\Demo1\Extdemo\bin\Debug\Extdemo.exe.config
+C:\C #\day7\Demo1\Extdemo\bin\Debug\Extdemo.exe
+C:\C #\day7\Demo1\Extdemo\bin\Debug\Extdemo.pdb
+C:\C #\day7\Demo1\Extdemo\obj\Debug\Extdemo.exe
+C:\C #\day7\Demo1\Extdemo\obj\Debug\Extdemo.pdb

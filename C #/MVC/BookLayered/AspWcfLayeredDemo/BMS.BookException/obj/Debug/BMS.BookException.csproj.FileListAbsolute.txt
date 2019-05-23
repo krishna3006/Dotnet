@@ -1,0 +1,12 @@
+C:\BookLayered\AspWcfLayeredDemo\BMS.BookException\bin\Debug\BMS.BookException.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BookException\bin\Debug\BMS.BookException.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.csprojAssemblyReference.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.csproj.CoreCompileInputs.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BookException\bin\Debug\BMS.BookException.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BookException\bin\Debug\BMS.BookException.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.csprojAssemblyReference.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.csproj.CoreCompileInputs.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.BookException\obj\Debug\BMS.BookException.pdb

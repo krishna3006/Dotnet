@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployDetailsApplication", "EmployDetailsApplication.csproj", "{B0AB8744-E185-41A9-BFC4-4AAA3B18410E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EmployDetails.Entities", "..\Capgemini.EmployDetails.Entities\Capgemini.EmployDetails.Entities.csproj", "{530CE63B-470D-4D32-8649-0C9175D3A9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EmployDetails.Exceptions", "..\Capgemini.EmployDetails.Exceptions\Capgemini.EmployDetails.Exceptions.csproj", "{38CACF0D-1AB7-467E-9928-85E14DEF644D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EmployDetails.DataAccessLayer", "..\Capgemini.EmployDetails.DataAccessLayer\Capgemini.EmployDetails.DataAccessLayer.csproj", "{5B056017-E47A-4635-8EB4-6C9CFE2A1D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EmployDetails.BusinessLayer", "..\Capgemini.EmployDetails.BusinessLayer\Capgemini.EmployDetails.BusinessLayer.csproj", "{BA793B01-8C9A-4F75-ABA7-13A57F71767F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployApplicationWPF", "..\EmployApplicationWPF\EmployApplicationWPF.csproj", "{F1F17CA3-1BE4-42B9-A4AE-6A0A3205A333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0AB8744-E185-41A9-BFC4-4AAA3B18410E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AB8744-E185-41A9-BFC4-4AAA3B18410E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AB8744-E185-41A9-BFC4-4AAA3B18410E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AB8744-E185-41A9-BFC4-4AAA3B18410E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530CE63B-470D-4D32-8649-0C9175D3A9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530CE63B-470D-4D32-8649-0C9175D3A9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530CE63B-470D-4D32-8649-0C9175D3A9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530CE63B-470D-4D32-8649-0C9175D3A9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CACF0D-1AB7-467E-9928-85E14DEF644D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CACF0D-1AB7-467E-9928-85E14DEF644D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CACF0D-1AB7-467E-9928-85E14DEF644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CACF0D-1AB7-467E-9928-85E14DEF644D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B056017-E47A-4635-8EB4-6C9CFE2A1D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B056017-E47A-4635-8EB4-6C9CFE2A1D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B056017-E47A-4635-8EB4-6C9CFE2A1D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B056017-E47A-4635-8EB4-6C9CFE2A1D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA793B01-8C9A-4F75-ABA7-13A57F71767F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA793B01-8C9A-4F75-ABA7-13A57F71767F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA793B01-8C9A-4F75-ABA7-13A57F71767F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA793B01-8C9A-4F75-ABA7-13A57F71767F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F17CA3-1BE4-42B9-A4AE-6A0A3205A333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F17CA3-1BE4-42B9-A4AE-6A0A3205A333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F17CA3-1BE4-42B9-A4AE-6A0A3205A333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F17CA3-1BE4-42B9-A4AE-6A0A3205A333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD1B3A35-AC9A-493F-B2D1-425A649D4A29}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class.csproj", "{0AC740A2-C50D-42E8-A872-008D690F08C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditcardLimit", "..\CreditcardLimit\CreditcardLimit.csproj", "{BFFB076F-817F-4182-862C-77B0A8766BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC740A2-C50D-42E8-A872-008D690F08C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC740A2-C50D-42E8-A872-008D690F08C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC740A2-C50D-42E8-A872-008D690F08C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC740A2-C50D-42E8-A872-008D690F08C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFB076F-817F-4182-862C-77B0A8766BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFB076F-817F-4182-862C-77B0A8766BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFB076F-817F-4182-862C-77B0A8766BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFB076F-817F-4182-862C-77B0A8766BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB062B57-AFAE-4276-85A2-075D18EC8151}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\C #\day6\New folder\Collectionsdemo\Generic2\bin\Debug\Generic2.exe.config
+C:\C #\day6\New folder\Collectionsdemo\Generic2\bin\Debug\Generic2.exe
+C:\C #\day6\New folder\Collectionsdemo\Generic2\bin\Debug\Generic2.pdb
+C:\C #\day6\New folder\Collectionsdemo\Generic2\obj\Debug\Generic2.csproj.CoreCompileInputs.cache
+C:\C #\day6\New folder\Collectionsdemo\Generic2\obj\Debug\Generic2.exe
+C:\C #\day6\New folder\Collectionsdemo\Generic2\obj\Debug\Generic2.pdb

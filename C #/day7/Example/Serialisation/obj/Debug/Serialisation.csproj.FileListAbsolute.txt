@@ -1,0 +1,7 @@
+C:\C #\day7\Example\Serialisation\bin\Debug\Serialisation.exe.config
+C:\C #\day7\Example\Serialisation\bin\Debug\Serialisation.exe
+C:\C #\day7\Example\Serialisation\bin\Debug\Serialisation.pdb
+C:\C #\day7\Example\Serialisation\obj\Debug\Serialisation.csprojAssemblyReference.cache
+C:\C #\day7\Example\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\C #\day7\Example\Serialisation\obj\Debug\Serialisation.exe
+C:\C #\day7\Example\Serialisation\obj\Debug\Serialisation.pdb

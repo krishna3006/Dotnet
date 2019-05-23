@@ -1,0 +1,24 @@
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.DAL.dll.config
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.DAL.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.DAL.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.BookException.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.Entity.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.BookException.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.Entity.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.csprojAssemblyReference.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CoreCompileInputs.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CopyComplete
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.DAL.dll.config
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.DAL.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.DAL.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.BookException.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.Entity.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.BookException.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\bin\Debug\BMS.Entity.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.csprojAssemblyReference.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CoreCompileInputs.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CopyComplete
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.DAL\obj\Debug\BMS.DAL.pdb

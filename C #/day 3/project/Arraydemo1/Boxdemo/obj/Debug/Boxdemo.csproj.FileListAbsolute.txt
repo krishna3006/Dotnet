@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\Boxdemo\bin\Debug\Boxdemo.exe.config
+C:\C #\day 3\project\Arraydemo1\Boxdemo\bin\Debug\Boxdemo.exe
+C:\C #\day 3\project\Arraydemo1\Boxdemo\bin\Debug\Boxdemo.pdb
+C:\C #\day 3\project\Arraydemo1\Boxdemo\obj\Debug\Boxdemo.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\Boxdemo\obj\Debug\Boxdemo.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Boxdemo\obj\Debug\Boxdemo.exe
+C:\C #\day 3\project\Arraydemo1\Boxdemo\obj\Debug\Boxdemo.pdb

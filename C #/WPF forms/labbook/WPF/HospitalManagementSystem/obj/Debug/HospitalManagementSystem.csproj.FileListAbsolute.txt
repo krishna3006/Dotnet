@@ -1,0 +1,66 @@
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\App.g.cs
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem_MarkupCompile.cache
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem_MarkupCompile.lref
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\MainWindow.baml
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.g.resources
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\PatientDetails.g.cs
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\PatientDetails.baml
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetail.BusinessLayer.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetails.Entity.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetails.Exceptions.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetails.DataAccessLayer.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetail.BusinessLayer.pdb
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetails.Entity.pdb
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetails.Exceptions.pdb
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\PatientDetails.DataAccessLayer.pdb
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\EntityFramework.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\System.Data.SqlServerCe.dll
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\EntityFramework.xml
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tamil_dotnet\WPF\lab\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetail.BusinessLayer.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetails.DataAccessLayer.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetails.Entity.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetails.Exceptions.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetail.BusinessLayer.pdb
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetails.DataAccessLayer.pdb
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetails.Entity.pdb
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\bin\Debug\PatientDetails.Exceptions.pdb
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\PatientDetails.g.cs
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\App.g.cs
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem_MarkupCompile.cache
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem_MarkupCompile.lref
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\PatientDetails.baml
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.g.resources
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\Abridge Solutions\Desktop\Lab\WPF\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb

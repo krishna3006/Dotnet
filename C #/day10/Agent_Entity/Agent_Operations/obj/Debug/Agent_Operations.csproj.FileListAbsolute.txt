@@ -1,0 +1,11 @@
+C:\C #\day10\Agent_Entity\Agent_Operations\bin\Debug\Agent_Operations.dll
+C:\C #\day10\Agent_Entity\Agent_Operations\bin\Debug\Agent_Operations.pdb
+C:\C #\day10\Agent_Entity\Agent_Operations\bin\Debug\Agent_Entity.dll
+C:\C #\day10\Agent_Entity\Agent_Operations\bin\Debug\Agent_Exceptions.dll
+C:\C #\day10\Agent_Entity\Agent_Operations\bin\Debug\Agent_Entity.pdb
+C:\C #\day10\Agent_Entity\Agent_Operations\bin\Debug\Agent_Exceptions.pdb
+C:\C #\day10\Agent_Entity\Agent_Operations\obj\Debug\Agent_Operations.csprojAssemblyReference.cache
+C:\C #\day10\Agent_Entity\Agent_Operations\obj\Debug\Agent_Operations.csproj.CoreCompileInputs.cache
+C:\C #\day10\Agent_Entity\Agent_Operations\obj\Debug\Agent_Operations.csproj.CopyComplete
+C:\C #\day10\Agent_Entity\Agent_Operations\obj\Debug\Agent_Operations.dll
+C:\C #\day10\Agent_Entity\Agent_Operations\obj\Debug\Agent_Operations.pdb

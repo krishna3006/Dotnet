@@ -1,0 +1,6 @@
+C:\C #\day10\Agent_Entity\bin\Debug\Agent_Entity.dll
+C:\C #\day10\Agent_Entity\bin\Debug\Agent_Entity.pdb
+C:\C #\day10\Agent_Entity\obj\Debug\Agent_Entity.csprojAssemblyReference.cache
+C:\C #\day10\Agent_Entity\obj\Debug\Agent_Entity.csproj.CoreCompileInputs.cache
+C:\C #\day10\Agent_Entity\obj\Debug\Agent_Entity.dll
+C:\C #\day10\Agent_Entity\obj\Debug\Agent_Entity.pdb

@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\CustomDemo\obj\Debug\CustomDemo.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\CustomDemo\obj\Debug\CustomDemo.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\CustomDemo\bin\Debug\CustomDemo.exe.config
+C:\C #\day 3\project\Arraydemo1\CustomDemo\bin\Debug\CustomDemo.exe
+C:\C #\day 3\project\Arraydemo1\CustomDemo\bin\Debug\CustomDemo.pdb
+C:\C #\day 3\project\Arraydemo1\CustomDemo\obj\Debug\CustomDemo.exe
+C:\C #\day 3\project\Arraydemo1\CustomDemo\obj\Debug\CustomDemo.pdb

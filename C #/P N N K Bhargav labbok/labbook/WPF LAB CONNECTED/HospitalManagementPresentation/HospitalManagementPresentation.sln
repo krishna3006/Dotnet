@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementPresentation", "HospitalManagementPresentation.csproj", "{7CC64E14-4C90-4364-95C7-52834999425F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.PatientDetails.Entities", "..\Capgemini.PatientDetails.Entities\Capgemini.PatientDetails.Entities.csproj", "{0C00DC75-45B9-49BD-8196-670DA612B749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.PatientDetails.Exceptions", "..\Capgemini.PatientDetails.Exceptions\Capgemini.PatientDetails.Exceptions.csproj", "{8ADAD509-380E-47EA-9333-DFCB87B8B04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.PatientDetails.DataAccessLayer", "..\Capgemini.PatientDetails.DataAccessLayer\Capgemini.PatientDetails.DataAccessLayer.csproj", "{B227976A-E515-40EB-99C4-56F3BA406D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.PatientDetails.BusinessLayer", "..\Capgemini.PatientDetails.BusinessLayer\Capgemini.PatientDetails.BusinessLayer.csproj", "{FBF0BC6B-AF10-43DC-A55C-7D524DA1DBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC64E14-4C90-4364-95C7-52834999425F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC64E14-4C90-4364-95C7-52834999425F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC64E14-4C90-4364-95C7-52834999425F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC64E14-4C90-4364-95C7-52834999425F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C00DC75-45B9-49BD-8196-670DA612B749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C00DC75-45B9-49BD-8196-670DA612B749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C00DC75-45B9-49BD-8196-670DA612B749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C00DC75-45B9-49BD-8196-670DA612B749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADAD509-380E-47EA-9333-DFCB87B8B04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADAD509-380E-47EA-9333-DFCB87B8B04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADAD509-380E-47EA-9333-DFCB87B8B04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADAD509-380E-47EA-9333-DFCB87B8B04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B227976A-E515-40EB-99C4-56F3BA406D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B227976A-E515-40EB-99C4-56F3BA406D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B227976A-E515-40EB-99C4-56F3BA406D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B227976A-E515-40EB-99C4-56F3BA406D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF0BC6B-AF10-43DC-A55C-7D524DA1DBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF0BC6B-AF10-43DC-A55C-7D524DA1DBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF0BC6B-AF10-43DC-A55C-7D524DA1DBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF0BC6B-AF10-43DC-A55C-7D524DA1DBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45BEA77-6865-4891-950C-B3CF5F8D0F0E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Entity\bin\Debug\PatientDetails.Entity.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Entity\bin\Debug\PatientDetails.Entity.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Entity\obj\Debug\PatientDetails.Entity.csproj.CoreCompileInputs.cache
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Entity\obj\Debug\PatientDetails.Entity.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetails.Entity\obj\Debug\PatientDetails.Entity.pdb

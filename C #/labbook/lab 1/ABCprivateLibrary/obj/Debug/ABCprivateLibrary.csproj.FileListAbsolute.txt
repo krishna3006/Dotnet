@@ -1,0 +1,6 @@
+C:\C #\labbook\ABCprivateLibrary\bin\Debug\ABCprivateLibrary.dll
+C:\C #\labbook\ABCprivateLibrary\bin\Debug\ABCprivateLibrary.pdb
+C:\C #\labbook\ABCprivateLibrary\obj\Debug\ABCprivateLibrary.csprojAssemblyReference.cache
+C:\C #\labbook\ABCprivateLibrary\obj\Debug\ABCprivateLibrary.csproj.CoreCompileInputs.cache
+C:\C #\labbook\ABCprivateLibrary\obj\Debug\ABCprivateLibrary.dll
+C:\C #\labbook\ABCprivateLibrary\obj\Debug\ABCprivateLibrary.pdb

@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Form Methods</title>
+</head>
+<body>
+<center>
+		<table border="3" bgcolor="skyblue">
+			<tr>			
+			<tr><td><b>Name:</b></td><td><input type="text" name="name" SIZE="20" tabindex="2" maxlength="30" placeholder="Enter Full Name"> <br> <br></td></tr>
+			<tr><td><b>Employee Code:</b></td><td><input type="number" name="eCode" SIZE="20"tabindex="2" placeholder="Enter Employee Code"> <br> <br></td></tr>
+			<tr><td><b>Department:</b></td>
+			<td>
+			<input type="radio" name="dept" value="dept1">Admin<br/>
+			<input type="radio" name="dept" value="dept2">HR<br/>
+			<input type="radio" name="dept" value="dept3">Technical<br/>
+			<input type="radio" name="dept" value="dept4">Accounts<br/>
+			</td></tr>
+			<tr><td><b>Date of Joining:</b></td><td><input type="date" required="Required"name="date"/><br/><br/></td></tr>
+			<tr><td><b>Address:</b></td><td><textarea name="addr" Rows="5" cols="40" placeholder="Enter your address"></textarea><br> <br></td></tr>
+			<tr><td><b>Training Program attended:</b></td>
+			<td>
+			<input type="checkbox" name="html">HTML/DHTML<br/>
+			<input type="checkbox" name="java" >JAVA<br/>
+			<input type="checkbox" name="client">Client/Server<br/>
+			<input type="checkbox" name="net" >.NET<br/>
+			</td></tr>
+			<tr><td><b>Training Program needed to attend:</b></td>
+			<td>
+			<input type="text" list="nameList" placeholder="Select Training"name="training"/>
+				<datalist id="nameList">
+				<option label="JavaScript" value="JavaScript">
+				<option label="HTML/DHTML" value="HTML/DHTML">
+				<option label="Client/Server" value="Client/Server">
+				<option label=".Net" value=".Net">
+				</datalist>
+			</td></tr>
+			<tr><td><b>Send Information at</b></td><td><a href="empinfo@capgemini.com">empinfo@capgemini.com</a><br> <br></td></tr>
+		</table>
+	</center>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

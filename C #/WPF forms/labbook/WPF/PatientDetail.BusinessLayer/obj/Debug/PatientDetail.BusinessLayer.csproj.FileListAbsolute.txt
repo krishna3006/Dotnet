@@ -1,0 +1,13 @@
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\obj\Debug\PatientDetail.BusinessLayer.csprojAssemblyReference.cache
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\obj\Debug\PatientDetail.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetail.BusinessLayer.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetail.BusinessLayer.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetails.DataAccessLayer.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetails.Entity.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetails.Exceptions.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetails.DataAccessLayer.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetails.Entity.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\bin\Debug\PatientDetails.Exceptions.pdb
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\obj\Debug\PatientDetail.BusinessLayer.csproj.CopyComplete
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\obj\Debug\PatientDetail.BusinessLayer.dll
+C:\Tamil_dotnet\WPF\lab\PatientDetail.BusinessLayer\obj\Debug\PatientDetail.BusinessLayer.pdb

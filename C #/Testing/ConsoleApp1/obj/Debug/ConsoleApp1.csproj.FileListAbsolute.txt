@@ -1,0 +1,17 @@
+C:\C #\Testing\ConsoleApp1\bin\Debug\NUnit3.TestAdapter.dll
+C:\C #\Testing\ConsoleApp1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\C #\Testing\ConsoleApp1\bin\Debug\nunit.engine.dll
+C:\C #\Testing\ConsoleApp1\bin\Debug\nunit.engine.api.dll
+C:\C #\Testing\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C #\Testing\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C #\Testing\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C #\Testing\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\C #\Testing\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\C #\Testing\ConsoleApp1\bin\Debug\nunit.framework.pdb
+C:\C #\Testing\ConsoleApp1\bin\Debug\nunit.framework.xml
+C:\C #\Testing\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\C #\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\C #\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\C #\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\C #\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C #\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

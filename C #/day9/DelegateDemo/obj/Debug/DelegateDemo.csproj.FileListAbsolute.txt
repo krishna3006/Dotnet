@@ -1,0 +1,7 @@
+C:\C #\day9\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\C #\day9\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\C #\day9\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\C #\day9\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+C:\C #\day9\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\C #\day9\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\C #\day9\DelegateDemo\obj\Debug\DelegateDemo.pdb

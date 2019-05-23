@@ -1,0 +1,10 @@
+C:\C #\labbook\lab4\Labrecord4\bin\Debug\Labrecord4.exe.config
+C:\C #\labbook\lab4\Labrecord4\bin\Debug\Labrecord4.exe
+C:\C #\labbook\lab4\Labrecord4\bin\Debug\Labrecord4.pdb
+C:\C #\labbook\lab4\Labrecord4\bin\Debug\EmployeeLibrary.dll
+C:\C #\labbook\lab4\Labrecord4\bin\Debug\EmployeeLibrary.pdb
+C:\C #\labbook\lab4\Labrecord4\obj\Debug\Labrecord4.csprojAssemblyReference.cache
+C:\C #\labbook\lab4\Labrecord4\obj\Debug\Labrecord4.csproj.CoreCompileInputs.cache
+C:\C #\labbook\lab4\Labrecord4\obj\Debug\Labrecord4.csproj.CopyComplete
+C:\C #\labbook\lab4\Labrecord4\obj\Debug\Labrecord4.exe
+C:\C #\labbook\lab4\Labrecord4\obj\Debug\Labrecord4.pdb

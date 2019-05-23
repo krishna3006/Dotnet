@@ -1,0 +1,7 @@
+C:\C #\day2\project\factorial.cs\FactRef\bin\Debug\FactRef.exe.config
+C:\C #\day2\project\factorial.cs\FactRef\bin\Debug\FactRef.exe
+C:\C #\day2\project\factorial.cs\FactRef\bin\Debug\FactRef.pdb
+C:\C #\day2\project\factorial.cs\FactRef\obj\Debug\FactRef.csprojAssemblyReference.cache
+C:\C #\day2\project\factorial.cs\FactRef\obj\Debug\FactRef.csproj.CoreCompileInputs.cache
+C:\C #\day2\project\factorial.cs\FactRef\obj\Debug\FactRef.exe
+C:\C #\day2\project\factorial.cs\FactRef\obj\Debug\FactRef.pdb

@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="EmployCrud.master.cs" Inherits="EmpClientDemo.EmployCrud" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    
+    <style type="text/css">
+        .auto-style1 {
+            width: 70%;
+        }
+        .auto-style2 {
+            width: 178px;
+            height: 111px;
+        }
+        .auto-style3 {
+            height: 111px;
+        }
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+           
+            <table align="center" class="auto-style1">
+                <tr>
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="lblCrud" runat="server" Font-Bold="True" Font-Names="Times New Roman" ForeColor="#660066" Text="Employ CRUD Operations Demo"></asp:Label>
+                        &nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;
+                        <asp:LinkButton ID="lnkShowEmploy" runat="server" OnClick="lnkShowEmploy_Click">ShowEmploy</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkAddEmploy" runat="server" OnClick="lnkAddEmploy_Click">AddEmploy</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkSearchEmploy" runat="server" OnClick="lnkSearchEmploy_Click">SearchEmploy</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkUpdateEmploy" runat="server">UpdateEmploy</asp:LinkButton>
+                        <br />
+                        <asp:LinkButton ID="lnkDeleteEmploy" runat="server">DeleteEmploy</asp:LinkButton>
+                        <br />
+                    </td>
+                    <td class="auto-style3">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<asp:Label ID="lblCopyright" runat="server" Font-Bold="True" Font-Names="Tahoma" ForeColor="#3333CC" Text="Copyright to Capgemini"></asp:Label>
+                    </td>
+                </tr>
+            </table>
+           
+        </div>
+    </form>
+</body>
+</html>

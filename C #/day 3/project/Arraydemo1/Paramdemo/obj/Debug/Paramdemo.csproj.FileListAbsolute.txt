@@ -1,0 +1,7 @@
+C:\C #\day 3\project\Arraydemo1\Paramdemo\bin\Debug\Paramdemo.exe.config
+C:\C #\day 3\project\Arraydemo1\Paramdemo\bin\Debug\Paramdemo.exe
+C:\C #\day 3\project\Arraydemo1\Paramdemo\bin\Debug\Paramdemo.pdb
+C:\C #\day 3\project\Arraydemo1\Paramdemo\obj\Debug\Paramdemo.csprojAssemblyReference.cache
+C:\C #\day 3\project\Arraydemo1\Paramdemo\obj\Debug\Paramdemo.csproj.CoreCompileInputs.cache
+C:\C #\day 3\project\Arraydemo1\Paramdemo\obj\Debug\Paramdemo.exe
+C:\C #\day 3\project\Arraydemo1\Paramdemo\obj\Debug\Paramdemo.pdb

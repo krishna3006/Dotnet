@@ -1,0 +1,7 @@
+C:\C #\WPF forms\day6\LamdaOperators\bin\Debug\LamdaOperators.exe.config
+C:\C #\WPF forms\day6\LamdaOperators\bin\Debug\LamdaOperators.exe
+C:\C #\WPF forms\day6\LamdaOperators\bin\Debug\LamdaOperators.pdb
+C:\C #\WPF forms\day6\LamdaOperators\obj\Debug\LamdaOperators.csprojAssemblyReference.cache
+C:\C #\WPF forms\day6\LamdaOperators\obj\Debug\LamdaOperators.csproj.CoreCompileInputs.cache
+C:\C #\WPF forms\day6\LamdaOperators\obj\Debug\LamdaOperators.exe
+C:\C #\WPF forms\day6\LamdaOperators\obj\Debug\LamdaOperators.pdb

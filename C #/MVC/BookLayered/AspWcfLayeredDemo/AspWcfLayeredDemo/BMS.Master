@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BMS.master.cs" Inherits="AspWcfLayeredDemo.BMS" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+   
+	<style type="text/css">
+		.auto-style1 {
+			width: 98%;
+			height: 290px;
+			border: 1px solid #00FFFF;
+		}
+		.auto-style4 {
+			height: 43px;
+		}
+		.auto-style6 {
+			height: 31px;
+		}
+		.auto-style7 {
+			width: 289px;
+		}
+	</style>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+          
+        	<table align="left" cellpadding="5" cellspacing="5" class="auto-style1">
+				<tr>
+					<td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<asp:Label ID="lblAspNetandWCfLayeredDemo" runat="server" Font-Bold="True" Text="Asp.Net and WCF Layered Demo"></asp:Label>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<asp:Label ID="lblBookManagementSystem" runat="server" Text="Book Management System"></asp:Label>
+					</td>
+				</tr>
+				<tr>
+					<td class="auto-style6" colspan="2">
+						<asp:LinkButton ID="lnkAddBook" runat="server" OnClick="lnkAddBook_Click">Add Book</asp:LinkButton>
+					</td>
+				</tr>
+				<tr>
+					<td class="auto-style7">
+						<asp:LinkButton ID="lnkUpdateBook" runat="server" OnClick="lnkUpdateBook_Click">Update Book</asp:LinkButton>
+					</td>
+					<td>
+						<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+						</asp:ContentPlaceHolder>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<asp:LinkButton ID="lnkDeleteBook" runat="server" OnClick="lnkDeleteBook_Click">Delete Book</asp:LinkButton>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<asp:LinkButton ID="lnkSearchBook" runat="server" OnClick="lnkSearchBook_Click">Search Book</asp:LinkButton>
+					</td>
+				</tr>
+				<tr>
+					<td class="auto-style4" colspan="2">
+						<asp:LinkButton ID="lnkViewBook" runat="server" OnClick="lnkViewBook_Click">View Book</asp:LinkButton>
+					</td>
+				</tr>
+			</table>
+          
+        </div>
+    </form>
+</body>
+</html>

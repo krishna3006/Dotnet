@@ -1,0 +1,10 @@
+C:\C #\labbook\ConAppDay4\bin\Debug\ConAppDay4.exe.config
+C:\C #\labbook\ConAppDay4\bin\Debug\ConAppDay4.exe
+C:\C #\labbook\ConAppDay4\bin\Debug\ConAppDay4.pdb
+C:\C #\labbook\ConAppDay4\bin\Debug\Arithmetic Library.dll
+C:\C #\labbook\ConAppDay4\bin\Debug\Arithmetic Library.pdb
+C:\C #\labbook\ConAppDay4\obj\Debug\ConAppDay4.csprojAssemblyReference.cache
+C:\C #\labbook\ConAppDay4\obj\Debug\ConAppDay4.csproj.CoreCompileInputs.cache
+C:\C #\labbook\ConAppDay4\obj\Debug\ConAppDay4.csproj.CopyComplete
+C:\C #\labbook\ConAppDay4\obj\Debug\ConAppDay4.exe
+C:\C #\labbook\ConAppDay4\obj\Debug\ConAppDay4.pdb

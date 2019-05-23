@@ -1,0 +1,21 @@
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.pdb
+C:\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csprojAssemblyReference.cache
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.dll
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csprojAssemblyReference.cache
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\Layered\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.pdb
+C:\C #\MVC\BookLayered\AspWcfLayeredDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csprojAssemblyReference.cache

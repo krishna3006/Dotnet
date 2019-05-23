@@ -1,0 +1,10 @@
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\bin\Debug\RelationalDemoForm.exe.config
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\bin\Debug\RelationalDemoForm.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\bin\Debug\RelationalDemoForm.pdb
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.csprojAssemblyReference.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.Form1.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.Properties.Resources.resources
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.csproj.GenerateResource.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.csproj.CoreCompileInputs.cache
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.exe
+C:\C#\LABBOOK-Module 2\ADO .NET- LINQ AND EF\LAB-5\RelationalDemoForm\obj\Debug\RelationalDemoForm.pdb

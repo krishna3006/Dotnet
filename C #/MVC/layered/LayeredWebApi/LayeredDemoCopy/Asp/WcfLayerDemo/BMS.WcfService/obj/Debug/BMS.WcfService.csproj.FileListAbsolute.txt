@@ -1,0 +1,20 @@
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.pdb
+C:\LayeredDemo\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csprojAssemblyReference.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csprojAssemblyReference.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\LayeredDemo1\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.dll.config
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.WcfService\bin\BMS.WcfService.pdb
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.csproj.CoreCompileInputs.cache
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.dll
+C:\C #\MVC\layered\LayeredWebApi\LayeredDemoCopy\Asp\WcfLayerDemo\BMS.WcfService\obj\Debug\BMS.WcfService.pdb

@@ -1,0 +1,6 @@
+C:\C #\labbook\LAB 10\LADRECORD10\bin\Debug\LADRECORD10.dll
+C:\C #\labbook\LAB 10\LADRECORD10\bin\Debug\LADRECORD10.pdb
+C:\C #\labbook\LAB 10\LADRECORD10\obj\Debug\LADRECORD10.csprojAssemblyReference.cache
+C:\C #\labbook\LAB 10\LADRECORD10\obj\Debug\LADRECORD10.csproj.CoreCompileInputs.cache
+C:\C #\labbook\LAB 10\LADRECORD10\obj\Debug\LADRECORD10.dll
+C:\C #\labbook\LAB 10\LADRECORD10\obj\Debug\LADRECORD10.pdb

@@ -1,0 +1,2 @@
+C:\C #\day7\Example\CustomerEx\obj\Debug\CustomerEx.csproj.CoreCompileInputs.cache
+C:\C #\day7\Example\CustomerEx\obj\Debug\CustomerEx.csprojAssemblyReference.cache

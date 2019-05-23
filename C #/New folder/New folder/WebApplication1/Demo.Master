@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Demo.master.cs" Inherits="WebApplication1.Demo" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+   
+    <style type="text/css">
+        .auto-style1 {
+            width: 53%;
+        }
+        .auto-style2 {
+            width: 70%;
+            border-style: solid;
+            border-width: 1px;
+        }
+        .auto-style3 {
+            width: 74px;
+        }
+    </style>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+            <table align="center" class="auto-style1">
+                <tr>
+                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                    <td>
+                        <asp:Label ID="lblWelcome" runat="server" Font-Bold="True" Font-Names="Times New Roman" ForeColor="#FF3300" Text="Welcome to master page"></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            <table align="center" class="auto-style2">
+                                <tr>
+                                    <td class="auto-style3">
+                                        <asp:Label ID="lblfirstno" runat="server" Text="Firstno"></asp:Label>
+                                    </td>
+                                    <td>
+                                        <asp:TextBox ID="txtFirstno" runat="server"></asp:TextBox>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style3">
+                                        <asp:Label ID="lblSecondno" runat="server" Text="Secondno"></asp:Label>
+                                    </td>
+                                    <td>
+                                        <asp:TextBox ID="txtSecondno" runat="server"></asp:TextBox>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style3">
+                                        <asp:Label ID="lblResult" runat="server" Text="Result"></asp:Label>
+                                    </td>
+                                    <td>
+                                        <asp:TextBox ID="txtResult" runat="server"></asp:TextBox>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style3">
+                                        <asp:Button ID="btnSum" runat="server" Text="Sum" />
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="btnSub" runat="server" Text="Sub" />
+&nbsp;&nbsp;&nbsp;
+                                        <asp:Button ID="btnMult" runat="server" Text="Mult" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Label ID="lblCopyright" runat="server" Font-Names="Tahoma" ForeColor="Fuchsia" Text="Copyright to Capgemini"></asp:Label>
+                    </td>
+                </tr>
+            </table>
+            
+        </div>
+    </form>
+</body>
+</html>

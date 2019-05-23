@@ -1,0 +1,7 @@
+C:\C #\day7\Example\Filedemo3\bin\Debug\Filedemo3.exe.config
+C:\C #\day7\Example\Filedemo3\bin\Debug\Filedemo3.exe
+C:\C #\day7\Example\Filedemo3\bin\Debug\Filedemo3.pdb
+C:\C #\day7\Example\Filedemo3\obj\Debug\Filedemo3.csprojAssemblyReference.cache
+C:\C #\day7\Example\Filedemo3\obj\Debug\Filedemo3.csproj.CoreCompileInputs.cache
+C:\C #\day7\Example\Filedemo3\obj\Debug\Filedemo3.exe
+C:\C #\day7\Example\Filedemo3\obj\Debug\Filedemo3.pdb

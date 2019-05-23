@@ -1,0 +1,6 @@
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.Entities\bin\Debug\Capgemini.EmployDetails.Entities.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.Entities\bin\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.csprojAssemblyReference.cache
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.csproj.CoreCompileInputs.cache
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.dll
+C:\C#\Layered Archietecture-Employ\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.pdb
